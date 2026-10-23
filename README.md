@@ -21,3 +21,11 @@
 4. 株価・金利・信用市場の反応を区別する
 
 > 注意：これは個人の学習記録であり、投資助言ではない。過去の会話で作成された市況レポートに含まれる価格水準・ニュースの細部は、一次資料などとの照合前には確定事実として採用しない。
+
+## 商品先物・スプレッド研究
+- [トウモロコシ12月限−翌3月限：研究計画・実行方法](research/corn-dec-mar/README.md)
+- [公式データソース台帳](research/corn-dec-mar/data-sources.md)
+- [個別限月データの検証・季節スプレッド作成コード](research/corn-dec-mar/scripts/build_spread.py)
+- [NASS統計の取得コード](research/corn-dec-mar/scripts/fetch_nass.py)
+
+原油・海運などのニュースから生まれた疑問は引き続き `topics/` に記録し、商品スプレッドの定量研究は `research/corn-dec-mar/` に分ける。実測価格の履歴は未取得で、戦略の収益性は未判定。
