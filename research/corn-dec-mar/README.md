@@ -1,0 +1,87 @@
+# トウモロコシ12月限–翌3月限スプレッド研究
+
+2026-10-23開始。**研究設計段階：実データでの検証結果はまだない。**
+
+## 3層に分離する
+1. **教科書**：先物の契約・受渡・基差・Cost of Carry・コンタンゴ／バックワーデーション。
+2. **リサーチ**：在庫、金利、現物基差、WASDE、先物カーブ、統計、反証。
+3. **トレードジャーナル**：シグナル、約定、サイズ、最大逆行幅、撤退、失敗の理由。
+
+学ぶ順序：契約仕様 → ヘッジャーと現物裁定 → 限月間価格差 → 需給要因 → 統計モデル → ウォークフォワード → リスク管理 → ペーパートレード。
+
+## 対象の定義
+各作物年度 y の同じ取引日 t について、
+
+\[
+C_{y,t}=F_t^{Dec_y}-F_t^{Mar_{y+1}}
+\]
+
+- F は **個別限月の日次清算値**（単位：米セント/ブッシェル）。連続先物だけで代用しない。
+- 通常のコンタンゴなら C は負になる。
+- **12月限ロング＋翌3月限ショート**の1組の評価損益は、\(\Delta C \times 50\) ドル。1セント/ブッシェルの変化が5,000×0.01=50ドルだから。
+- 0.25セントの1ティックは12.50ドル（CME契約仕様）。
+
+仮想例：12月=480、3月=490なら C=-10。後に12月=483、3月=490なら C=-7となり、ブルスプレッドの1組の評価益は150ドル（手数料等を除く）。
+
+## 最初の仮説
+**H1：在庫が十分で、3月限−12月限のコンタンゴが合理的な保管キャリーより大きいとき、その後20営業日で C が上昇しやすいか。**
+
+候補変数：キャリー利用率、当時公表済みのStocks-to-Use、現物基差、短期金利、第一通知日までの日数。
+
+この仮説は**裁定利益の保証ではない**。現物保管主体と先物ポジションだけの投機家では倉庫・受渡・資金制約が異なる。「2σなら必ず戻る」「共和分しているから安全」は誤り。
+
+**反証・失敗条件**：作物年度を丸ごと外すと符号が変わる／取引費用で利益が消える／在庫レジームで平均回帰が成立しない／受渡前に必要な流動性を確保できない／公表時点の情報だけでは予測できない。
+
+## データ収集
+| 優先 | データ | 出典と注意 |
+|---|---|---|
+| 1 | 個別の12月・翌3月清算値、出来高、建玉 | CME Settlements、大学端末、ブローカーやベンダー。長期履歴は有料の場合がある |
+| 1 | 契約仕様、第一通知日、最終取引日 | CME Specs・Calendar。契約年を誤認しない |
+| 2 | WASDEのその時点の供給需要予測 | USDAの月次ヴィンテージ。最新改訂値を過去に遡って使わない |
+| 2 | 作付け、在庫、生育統計 | NASS Quick Stats（無料APIキーが必要） |
+| 3 | 地域別基差、輸出、エタノール、金利、COT | USDA AMS/FAS、EIA、FRED、CFTC。対象期間と発表日時を分ける |
+
+詳しくは [data-sources.md](data-sources.md)。
+
+### 公表時点を守る
+各変数について少なくとも、対象期間、実際の公表日時、戦略が利用可能になった日時、取得日時、出典を保持する。COTの火曜ポジションを金曜公表前に使用するのは先読み。**当日の清算値でシグナルを作り、同じ清算値で約定したことにしない。**
+
+## 最初の実行手順
+Python 3.10以上を想定。作業はリポジトリのルートから。
+
+\`\`\`bash
+pip install -r research/corn-dec-mar/requirements.txt
+python -m unittest discover -s research/corn-dec-mar/tests -v
+# 本物の個別限月価格を取得して data/input/futures_daily.csv に配置後:
+python research/corn-dec-mar/scripts/build_spread.py \
+  --prices research/corn-dec-mar/data/input/futures_daily.csv \
+  --master research/corn-dec-mar/contract_master.csv \
+  --out research/corn-dec-mar/data/processed
+# 無料NASS APIキーを環境変数 NASS_API_KEY に設定後:
+python research/corn-dec-mar/scripts/fetch_nass.py --state IA --start-year 2015 --end-year 2026
+\`\`\`
+
+- build_spread.py：限月・日付・単位をチェックし、12月−翌3月の価格差、日次評価損益、季節チャートを生成する。**データが無ければ結果は出さない**。
+- fetch_nass.py：NASSの生JSONと取得時刻、APIキーを除いた検索条件を保存する。NASSの load_time は必ずしも市場が利用できた時刻と同じではない。
+- 先物の生価格にはライセンス制約があり得るため、公開GitHubに置かない。
+- 第一通知日の**10暦日前より後の観測を除外**するのは研究用の保守的な初期設定で、実際の受渡リスク管理を代替するものではない。
+
+## 12週間の進め方
+| 週 | 目標 |
+|---|---|
+| 1–2 | 契約カード、損益符号の手計算10例、「戻らない」5例 |
+| 3–4 | 個別限月価格の取得、単位・重複検査、季節チャート |
+| 5–6 | WASDEのヴィンテージと在庫・金利・基差の公表時点結合 |
+| 7–8 | キャリー・在庫の回帰とイベントスタディ |
+| 9–10 | 作物年度単位のウォークフォワード、コスト感度 |
+| 11–12 | ペーパートレード、MAE/MFE、ドローダウン、ルール違反の記録 |
+
+15年の日足があっても独立した季節性の反復は概ね15作物年度分。日次データをランダム分割して精度を高く見せない。**先に経済メカニズム、後で統計**。
+
+## 参考
+- [CME Corn specs](https://www.cmegroup.com/markets/agriculture/grains/corn/specs.html)
+- [CME Corn calendar](https://www.cmegroup.com/markets/agriculture/grains/corn/calendar.html)
+- [USDA NASS API](https://quickstats.nass.usda.gov/api)
+- [USDA WASDE](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report)
+
+> 個人研究用。実際の取引判断に使用する前にデータの使用許諾と先物取引リスクを確認する。
