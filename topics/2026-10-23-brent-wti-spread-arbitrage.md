@@ -65,3 +65,10 @@ WTI系原油を米国内で調達し、沿岸へ運び、海外製油所に販�
 7. EIA（軽油需給）：https://www.eia.gov/energyexplained/diesel-fuel/where-our-diesel-comes-from.php
 
 > 個人学習用。市況データは記事掲載時点の参考値で、発注可能な気配・先物の清算値とは異なる。
+
+
+## 2026-10-24 07:47 JST 追加照合
+Reutersの**2026/10/23最終市況記事**ではBrent $116.72、WTI $103.27と報じられ、WSJの当日記事で**両方が2026年12月限**と確認された。算術差は**$13.45/bbl**だが、ICEとNYMEXの**同時刻の気配値ではなく、別々の清算値**。この差を厳密な裁定利益・執行価格と扱わず、元の縮小仮説は**未判定**のまま。今後は同一UTC時刻のbid/askと湾岸輸送コストで比較。
+- [Reuters 10/23 最終報道](https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/)
+- [WSJ 10/23 両者の12月限確認](https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364)
+- [詳細記録](../daily/2026-10-24-review-0747-jst.md)
