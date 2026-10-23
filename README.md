@@ -32,3 +32,6 @@
 - [NASS統計の取得コード](research/corn-dec-mar/scripts/fetch_nass.py)
 
 原油・海運などのニュースから生まれた疑問は引き続き `topics/` に記録し、商品スプレッドの定量研究は `research/corn-dec-mar/` に分ける。実測価格の履歴は未取得で、戦略の収益性は未判定。
+
+## 中東危機と海運業界
+- [2026-10-24 世界と日本の海運業界・船種別利益と反証条件](topics/2026-10-24-global-vs-japan-shipping-middle-east.md)
