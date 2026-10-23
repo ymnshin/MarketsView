@@ -46,3 +46,9 @@
 3. 実際の供給減少と地政学的リスクプレミアムをデータで識別できるか。
 
 > 注：事象の細部・当日の相場水準は一次報道や価格データで再確認すること。学習上のメカニズムと事実認定を混ぜない。
+
+
+## 2026-10-24 07:47 JST 追加照合
+**ロシア産軽油の予定目的地を更新**。10/23 Reutersの当初報道ではNY行きだったが、その後 `Agioi Fanendes` のAIS目的地は**FOR ORDERS**に変更された。11/7のETAは**ニューヨークでの荷揚げ確定ではない**。積荷約4万トンの出発と米国輸入の実現・ULSD価格への影響を分離し、後者は**未判定**。[WSJ 10/23](https://www.wsj.com/finance/commodities-futures/tanker-carrying-russian-diesel-signals-u-s-port-after-trump-putin-deal-c09c15dd)／[AIS表示](https://www.vesselfinder.com/vessels/details/9798375)。
+
+**海運の週次変化**。Baltic Exchangeの10/23週報では、原油を運ぶVLCCの複数代表航路は**週次下落**、一方、中東湾岸から日本向けの製品タンカー運賃は**上昇**。保険費用・航路・契約により利益へ反映する度合いが異なるという従来仮説を維持し、**「全船種一斉の運賃上昇」仮説は支持できない**。[Baltic週報・The Edge掲載](https://theedgemalaysia.com/node/823074)。指数の生データ・履歴は再配布しない。
