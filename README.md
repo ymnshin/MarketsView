@@ -37,3 +37,6 @@
 - [2026-10-24 世界と日本の海運業界・船種別利益と反証条件](topics/2026-10-24-global-vs-japan-shipping-middle-east.md)
 
 - [2026年10月24日：スポット原油タンカー高騰の受益企業（ECO・FRO・DHT）](topics/2026-10-24-spot-tanker-beneficiaries.md)
+
+## 定点レビュー
+- [2026-10-24 03:43 JST：原油・Brent–WTI・海運・AI信用・トウモロコシ仮説の検証状況](daily/2026-10-24-review-0343-jst.md)（コーンはデータ未取得・未判定）
