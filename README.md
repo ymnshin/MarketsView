@@ -48,3 +48,7 @@
 
 
 - [2026-10-24 15:44 JST：EIA軽油小売価格とMeta一次資料を追加照合、市場仮説の判定は維持](daily/2026-10-24-review-1544-jst.md)
+
+
+## AI信用市場
+- [Metaの設備投資・資本政策を一次資料で照合（2026-10-24）](topics/2026-10-24-ai-credit-and-meta-funding.md)
