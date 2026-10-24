@@ -34,3 +34,12 @@ AI設備投資の資金調達負担が信用スプレッドを拡大させ、株
 - [過去の信用市場関連観測：2026/10/24 07:47 JSTレビュー](../daily/2026-10-24-review-0747-jst.md)
 
 > データ取得・価格変化と政策発表日時を混同しない。ライセンス付き価格系列・個人情報・秘密情報は収録しない。
+
+
+## 2026-10-24 19:50 JST 追加照合：CDSと社債スプレッドは同時に悪化とは限らない
+
+**2026/10/23米国午後Reuters（LSEG）**：Metaの**5年CDSが約123bpで、同日の比較では0.3%小幅縮小**。ただし前日10/22のReuters記事にある**Markitの114.79bp**とはデータベンダー・観測条件が異なるため、両者の算術差で前日比の変動を算出しない。**2026/10/23 WSJ（MarketAxess）**では**Metaの2031年債スプレッド約0.75パーセントポイント＝75bp、前日比+5bp**、Oracleの2031年債263bp（+4bp）、SpaceX 2031年債228bp（前日205bp）と、**現物社債のスプレッドは拡大**。これらはCDSと異なる信用商品の市場価格で、同一測定対象ではない。
+
+同日Reutersは、前日の急落後にAI株は銘柄別にまちまち、半導体大手株は概ね反発したと報告。**信用不安の存在は部分支持**だが、すべての信用指標が一方向に動いたという命題は支持しない。**「信用悪化がSOX下落を引き起こす」という因果は未判定**。金利・指数全体・同一社債基準の変化を区別し、今後同ベンダー・同一期限のCDSと同一債券のスプレッドを追跡する。反証条件は、一時的な信用悪化が市場調整後には再現しない／信用悪化の先行性が確認できない場合。
+
+根拠：[Reuters 2026/10/23（WTVB転載）](https://wtvbam.com/2026/10/23/after-previous-days-slump-trading-is-quieter-among-ai-shares/)／[WSJ 2026/10/23（MarketAxess社債データ）](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/tech-company-bonds-stay-under-pressure-even-as-stocks-stabilize-TMyeVOcU4MrrJAJVaxBE)／[19:50レビュー](../daily/2026-10-24-review-1950-jst.md)。
