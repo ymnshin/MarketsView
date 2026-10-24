@@ -43,3 +43,7 @@ AI設備投資の資金調達負担が信用スプレッドを拡大させ、株
 同日Reutersは、前日の急落後にAI株は銘柄別にまちまち、半導体大手株は概ね反発したと報告。**信用不安の存在は部分支持**だが、すべての信用指標が一方向に動いたという命題は支持しない。**「信用悪化がSOX下落を引き起こす」という因果は未判定**。金利・指数全体・同一社債基準の変化を区別し、今後同ベンダー・同一期限のCDSと同一債券のスプレッドを追跡する。反証条件は、一時的な信用悪化が市場調整後には再現しない／信用悪化の先行性が確認できない場合。
 
 根拠：[Reuters 2026/10/23（WTVB転載）](https://wtvbam.com/2026/10/23/after-previous-days-slump-trading-is-quieter-among-ai-shares/)／[WSJ 2026/10/23（MarketAxess社債データ）](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026/card/tech-company-bonds-stay-under-pressure-even-as-stocks-stabilize-TMyeVOcU4MrrJAJVaxBE)／[19:50レビュー](../daily/2026-10-24-review-1950-jst.md)。
+
+## 2026-10-25 07:43 JST：中東の通信インフラ脅威とAI信用リスクは分けて観測
+
+[Reuters 2026/10/23 16:54 UTC](https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/)によれば、イラン高官2人は、新たな攻撃を受けた場合の湾岸海底通信ケーブルへの攻撃計画に言及。通信回線・クラウド・地域データセンター投資に対する**条件付きの地政学リスク**だが、**今回新しいケーブル断線・AI施設停止・社債価格への因果が確認されたわけではない**。同記事の専門家はホルムズ海峡経由の国際帯域を世界全体の1%未満と説明しており、地域の影響と世界のAI設備投資を混同しない。**検証**：実障害と復旧期間、クラウド事業者の開示、設備投資計画、同一銘柄/ベンダー/商品で比較可能なCDS・社債スプレッド、SOXと日本半導体株。**反証**：通信障害が発生しない／冗長化で影響が限定的／関連信用スプレッドの超過悪化が持続しない。**判定**：設備投資収益性→信用市場→株価の因果は引き続き**未判定**。[07:43レビュー](../daily/2026-10-25-review-0743-jst.md)。
