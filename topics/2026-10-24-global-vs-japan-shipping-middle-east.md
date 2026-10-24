@@ -140,3 +140,9 @@ Reutersが**2026/10/23 14:58 UTC**に公表した記事では、10月のホル�
 - **次の確認**：港湾当局の稼働状況・AISでの実航跡（予定地と実績を区別）、実出荷量、海上保険、成約スポットTCE、日本3社の決算説明。
 
 出典：[Reuters 10/24 08:34 UTC（ミサイル迎撃）](https://www.reuters.com/world/middle-east/saudi-civil-defense-says-danger-passed-after-brief-alerts-mecca-jeddah-taif-2026-10-24/)／[Reuters 10/24 12:28 UTC（UAE閉鎖）](https://www.reuters.com/world/middle-east/uaes-ras-al-khaimah-shuts-all-beaches-neighbours-grapple-with-oil-spill-2026-10-24/)／[23:47レビュー](../daily/2026-10-24-review-2347-jst.md)。
+
+## 2026-10-25 03:50 JST：サウジ攻撃主張とアデン被害の追加区分
+
+10/24付[Reuters記事（今回再閲覧版）](https://www.reuters.com/world/middle-east/saudi-civil-defense-says-danger-passed-after-brief-alerts-mecca-jeddah-taif-2026-10-24/)によると、フーシ派はYanbu Aramco施設、Rabigh製油所、原油ポンプ場と東西パイプラインへの攻撃を**主張**。一方サウジ主導連合が公表したのはYanbu・Taif方面のミサイル2発迎撃であり、**実際にサウジ原油設備へ命中・損傷・稼働停止したかは未確認**。サウジ側はRabighなどへのミサイル破片落下を報告。イエメン政府側は**アデンの沿岸警備施設にミサイル3発が命中**したと述べるが、**民間商船や積出し港湾の停止とは別**。
+
+**研究判定：安全保障リスクの継続は支持、サウジ原油純供給減と新たなタンカー成約運賃・船社増益は未判定。** 反証・次の指標：Yanbu積出し量、東西パイプライン操業、Rabighの精製量、アデン商業港・航路の稼働と航路別実現TCE、戦争危険保険料、スポット船主・日本3社の契約別利益。既存の過年度決算・10/23週報・原仮説は変更しない。[03:50レビュー](../daily/2026-10-25-review-0350-jst.md)。
