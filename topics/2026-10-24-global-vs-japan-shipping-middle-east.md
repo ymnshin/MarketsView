@@ -122,3 +122,12 @@
 - [株探 10/23 業績予想修正](https://s.kabutan.jp/news/k202610230021/)
 - [SBI証券 川崎汽船 10/23終値](https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&exchange_code=JPN&getFlg=on&stock_sec_code_mul=9107)
 - [バルチックドライ指数 10/22](https://www.shikyo.biz/baltic_dry_index.htm)
+
+## 2026-10-24 11:44 JST 追加確認：航行リスクの定量化
+Reutersが**2026/10/23 14:58 UTC**に公表した記事では、10月のホルムズと周辺海域での船舶攻撃が**28件（確認・報告ベース）**、IMO事故リストでは紛争開始以来**30隻超のVLCCが損傷**（10月だけで11隻）と報じられた。約900隻超の世界船隊の約3.5%に損傷記録がある計算。ただしこれは**運航不能船腹が3.5%発生したという意味ではなく**、各船の復帰時期も未確認。
+
+- **支持**：原油タンカーの保険・運航可否・船腹配置を制約する現実のセキュリティリスクがある。高運賃が続く要因の候補となる。
+- **未判定**：日本の海運3社の実現利益・新たな損益見通し、ECO/FRO/DHTのQ4の実現TCE。Baltic 10/23週報のVLCC航路週次下落・製品船一部航路上昇の観察を変更しない。
+- **反証/対立仮説**：輸出数量の減少が船腹不足より大きくなれば、運賃高騰が船主利益を支えなくなる。また長期契約・追加保険の負担者が違えば会社別収益は異なる。
+- **次回**：IMO損傷船舶の復帰、稼働日数・成約とTCE、船種別会社決算・ONE。
+- [Reuters 10/23海上攻撃統計](https://www.reuters.com/business/energy/ship-attacks-strait-hormuz-hit-record-high-october-2026-10-23/)／[11:44レビュー](../daily/2026-10-24-review-1144-jst.md)
