@@ -92,3 +92,5 @@ python research/corn-dec-mar/scripts/fetch_nass.py --state IA --start-year 2015 
 - [USDA WASDE](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report)
 
 > 個人研究用。実際の取引判断に使用する前にデータの使用許諾と先物取引リスクを確認する。
+
+**2026-10-24 11:44 JST 再点検：データ未取得・未判定（継続）。** `contract_master.csv`・`data-sources.md`・`scripts/build_spread.py`・`.gitignore`を点検。リポジトリに複数年度の個別限月清算値はなく、時点整合的な保管費・金利・現物基差も未揃い。単日表示価格や先物1本の価格から20営業日先の成績を推測しない。[11:44照合](../../daily/2026-10-24-review-1144-jst.md)。
