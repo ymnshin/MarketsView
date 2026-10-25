@@ -150,3 +150,11 @@ Reutersが**2026/10/23 14:58 UTC**に公表した記事では、10月のホル�
 ## 2026-10-25 11:52 JST：航空リスク報道を海運・原油供給の証拠にしない
 
 [Reuters 10/24 23:56 UTC](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/)は、リヤドのキング・ハーリド国際空港での限定的な運航再開計画に対してフーシ派が攻撃警告を更新したと報道。**空港の運航・旅客輸送リスクは現実に継続**している一方、この新報は**ヤンブー原油出荷停止・新たなタンカー被害・運賃上昇・日本海運3社の収益増**の直接的証拠ではない。航路別の貨物数量・成約TCE・保険料・実現利益を独立して追跡し、航空向け燃料需要への影響も**実際の便数・欠航・在庫データが得られるまで未判定**とする。[11:52レビュー](../daily/2026-10-25-review-1152-jst.md)。
+
+## 2026-10-25 15:49 JST：タンカー運賃指数そのものの測定リスク
+
+[詳細：TD3CとMercuria対Balticの訴訟](2026-10-25-td3c-benchmark-litigation.md)を追加。**10/22に報じられた「中東→中国VLCCの日額約140万ドル」は市場指標であり、航行できる全船の実際の約定日額・会計上の実現TCEではない**。BalticのTD3Cはホルムズの通航制約下で指数代表性が**Mercuriaから争われている**。ただしBaltic側は市場を代表する査定が継続していると反論し、裁判所の確定判断はない。
+
+Baltic Exchangeの[2026/03/25公式Circular 17/26](https://www.balticexchange.com/en/data-services/Circulars/market-announcements-/category-a/2026/circular-17-26--new-index---td34--dirty-270k-gulf-of-oman-to-chi.html)による**TD34（オマーン湾→中国）**試行は**TD3Cの置換ではない**。路線・船型・成約制約の異なる両者を一つの指数に接続しない。指数高騰から日本3社の追加増益を逆算せず、**個別船主の実成約日数・保険負担・実現TCE・セグメント利益**を優先。**判定：計測上の懸念の存在は支持、指数の実際の歪み・海運利益への確定影響は未判定**。反証条件は、条件調整した実成約の集計とTD3Cが持続的に整合すること。新しい市場価格・新たな2026年Q4確定利益は確認していない。
+
+根拠：[Reuters 2026/06/24（両当事者の立場）](https://www.reuters.com/world/china/baltic-exchange-defends-its-tanker-rates-reliable-during-iran-war-2026-06-24/)／[Lloyd's List 2026/10/21（請求変更）](https://www.lloydslist.com/LL1158761/Baltic-Exchange-warns-of-chaotic-consequences-if-Mercuria-wins)／[15:49レビュー](../daily/2026-10-25-review-1549-jst.md)。
