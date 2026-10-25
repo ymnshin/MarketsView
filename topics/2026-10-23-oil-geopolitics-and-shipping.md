@@ -73,3 +73,7 @@
 
 ## 2026-10-25 19:47 JST：中東株式の場中反応と海運仮説の区別
 Reutersが**2026-10-25 07:39 UTC**に報じた**日曜日の場中**水準では、サウジTASI**−2.6%**、Aramco株**−1.1%**、エジプトEGX30**−2.5%**。サウジ側はリヤド・南部に向けられたドローン・ミサイルの追加迎撃を報告し、AP/Reutersはリヤド空港の一部ターミナルが実際に運航を再開したと報道。**「中東の株式市場が安全保障リスクに反応したこと」と「石油の実際の供給停止」「タンカー運賃の成約水準」「日本海運企業の利益増」は別の事象**。中東の安全保障リスク・場中の市場反応は確認、**東西パイプラインの追加被害・Yanbuの実出荷減・海運実現利益は未判定**。反証・確認：Aramco操業公表、AISを補完した実積出し、保険料・実現TCEと月曜の原油市場の同条件データ。場中値を確定終値に読み替えない。出典：[Reuters（10/25の中東株）](https://www.reuters.com/world/middle-east/gulf-bourses-slip-houthi-saudi-clashes-rattle-investors-2026-10-25/)・[Reuters（10/25の迎撃）](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/)・[AP（空港再開）](https://apnews.com/article/mideast-news-october-25-2026-4779a3deeb1a23f59414164532d5c885)。[詳細レビュー](../daily/2026-10-25-review-1947-jst.md)。
+
+
+## 2026-10-25 23:45 JST：中東株式市場の終値と原油供給を区別
+[Reuters 10/25更新後記事](https://www.reuters.com/world/middle-east/gulf-bourses-slip-houthi-saudi-clashes-rattle-investors-2026-10-25/)で**サウジTASI −2.7%・Aramco −0.9%・エジプトEGX30 −3.6%**の**10/25確定終値**を確認（カタールQSIは+0.1%）。前回の場中下落値はその時点の観測値として維持する。**10/25終値が確認できた＝原油の積出停止が確認できた、ではない。** 施設の実稼働、Yanbu積出実績、船腹稼働、保険費用・実現TCEを確認してはじめて原油供給・海運会社利益の仮説を更新する。因果推定には決算や市場全体の要因の調整も必要。全体の判定・反証は[23:45レビュー](../daily/2026-10-25-review-2345-jst.md)を参照。
