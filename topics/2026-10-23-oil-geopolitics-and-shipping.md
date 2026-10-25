@@ -70,3 +70,6 @@
 **仮説判定：** ロシア産軽油が実際に米港で荷揚げされたか、米ULSDクラックを低下させるかは**未判定**。比較には港湾・通関実績、対象地域の供給、原油価格と精製能力を要する。先に発表された小売価格だけで政策効果を断定しない。
 
 出典：[EIA Gasoline and Diesel Fuel Update](https://www.eia.gov/petroleum/gasdiesel/)（10/20公表・10/19週）。詳細は[15:44レビュー](../daily/2026-10-24-review-1544-jst.md)。
+
+## 2026-10-25 19:47 JST：中東株式の場中反応と海運仮説の区別
+Reutersが**2026-10-25 07:39 UTC**に報じた**日曜日の場中**水準では、サウジTASI**−2.6%**、Aramco株**−1.1%**、エジプトEGX30**−2.5%**。サウジ側はリヤド・南部に向けられたドローン・ミサイルの追加迎撃を報告し、AP/Reutersはリヤド空港の一部ターミナルが実際に運航を再開したと報道。**「中東の株式市場が安全保障リスクに反応したこと」と「石油の実際の供給停止」「タンカー運賃の成約水準」「日本海運企業の利益増」は別の事象**。中東の安全保障リスク・場中の市場反応は確認、**東西パイプラインの追加被害・Yanbuの実出荷減・海運実現利益は未判定**。反証・確認：Aramco操業公表、AISを補完した実積出し、保険料・実現TCEと月曜の原油市場の同条件データ。場中値を確定終値に読み替えない。出典：[Reuters（10/25の中東株）](https://www.reuters.com/world/middle-east/gulf-bourses-slip-houthi-saudi-clashes-rattle-investors-2026-10-25/)・[Reuters（10/25の迎撃）](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/)・[AP（空港再開）](https://apnews.com/article/mideast-news-october-25-2026-4779a3deeb1a23f59414164532d5c885)。[詳細レビュー](../daily/2026-10-25-review-1947-jst.md)。
