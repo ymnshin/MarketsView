@@ -72,3 +72,6 @@ Reutersの**2026/10/23最終市況記事**ではBrent $116.72、WTI $103.27と�
 - [Reuters 10/23 最終報道](https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/)
 - [WSJ 10/23 両者の12月限確認](https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364)
 - [詳細記録](../daily/2026-10-24-review-0747-jst.md)
+
+## 2026-10-26 07:44 JST：取引時間の一次資料照合（裁定未判定）
+[ICE Brent先物の公式仕様](https://www.ice.com/products/219/Brent-Crude-Futures)と[Brent/WTI上場スプレッド仕様](https://www.ice.com/products/1242/specs)によれば、日曜の取引開始は**23:00ロンドン時間**、プレオープンは22:00。英国冬時間移行後の**2026/10/26 08:00 JST**がICEの取引開始。対して[CME WTI公式](https://www.cmegroup.com/education/courses/event-contracts-underlying-markets/wti-overview)では日曜**17:00米中部時間**から（10/26 07:00 JST）。**07:44 JSTはICE Brentの取引開始前**のため、同2026年12月限・同一UTC時刻・両脚bid/askに基づく新たな執行可能スプレッドは取得できない。10/23報道清算値差$13.45を新価格に流用しない。今後は08:00 JST以降の取引所提示の執行可能な両脚気配、板・コスト・海運物流を照合する。**仮説判定：未判定／変化なし**。詳細は[当回レビュー](../daily/2026-10-26-review-0744-jst.md)。
