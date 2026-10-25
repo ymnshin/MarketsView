@@ -103,3 +103,8 @@
 
 ## 2026-10-25 07:43 JST 定点照合（原仮説・過去判定は保持）
 [07:43レビュー](../daily/2026-10-25-review-0743-jst.md)を追加。**直前03:50からの新しい取引所清算値・確定出荷減・海運実現利益の確認なし。** 以前公表されたReuters資料を今回新規照合した：10/24 16:03 UTCの米国家情報長官による10/23付警告メモと、10/23 16:54 UTCのイラン高官による湾岸海底通信ケーブル攻撃の**条件付き計画の主張**。米政府の警戒・通信インフラへの潜在リスクは追加材料だが、**新規攻撃の成功、石油施設の停止、通信障害、AI企業のCDS変化の確認ではない**。中東の安全保障リスクは支持、原油純供給減・Brent–WTI輸出裁定・ロシア軽油米国荷揚げ・船主のQ4実現増益・AI信用→SOX因果は**未判定を維持**。**Brent $116.72－WTI $103.27＝$13.45/bblは10/23同2026年12月限の異市場報道清算値の差であり同時刻気配ではない。** コーンは依然**データ未取得・未判定**。反証条件と次の観測はレビュー本文。出典：[Reuters 10/24米当局警告](https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/)・[Reuters 10/23海底通信ケーブル](https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/)。
+
+## 2026-10-25 11:52 JST 定点照合（元の仮説は保持）
+[11:52レビュー](../daily/2026-10-25-review-1152-jst.md)を追記。**Reuters 2026-10-24 23:56 UTC（10/25 08:56 JST）**は、リヤドのキング・ハーリド国際空港の一部ターミナルについて10/25からの運航再開計画が示された後、フーシ派が**同空港を引き続き標的とするとの警告を更新**したと報道。**航空インフラの安全保障リスク継続を支持**するが、**今回新たな原油設備の被害・ヤンブー出荷停止・タンカー損傷・スポットTCE上昇を確認したものではない**。反証・確認：空港の実運航便数と停止状況、石油積出し実績、海上保険・運賃・企業TCEの独立した推移。出典：[Reuters](https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/)／[Arab News](https://www.arabnews.pk/saudi-arabia/riyadhs-king-khalid-international-airport-to-reopen-terminals-on-sunday-3005184)。
+
+Brent–WTIは**同限月・同UTC時刻bid/ask未取得につき裁定・縮小未判定**、ロシア産軽油の**米国荷揚げ・価格影響は未判定**、海運利益・AI信用からSOXへの因果は**未判定**を維持。トウモロコシの長期清算値は**データ未取得・未判定**で、単日の価格差から研究結果を推測しない。
