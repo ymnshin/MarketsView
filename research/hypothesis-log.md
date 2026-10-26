@@ -159,3 +159,15 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **外交と場中市場反応**：[Reuters 10/26 08:28 UTC](https://www.reuters.com/world/middle-east/middle-east-markets-rebound-diplomacy-fuels-hopes-easing-iran-hostilities-2026-10-26/)ではサウジTASI**場中+2.5%**・Aramco**+1.3%**、カタールQSI**+1.8%**、エジプトEGX30**+0.6%**。テヘラン高官協議と仲介報道は**緊張緩和期待という競合仮説の支持方向**、停戦・合意・25日以降の実物供給回復は**未判定**。反証：協議破綻、追加攻撃・通航制約持続、終値や輸出量が改善しない。[Reuters外交10/26 03:20 UTC](https://www.reuters.com/world/asia-pacific/top-officials-mecca-pact-countries-meet-iranian-officials-tehran-monday-two-2026-10-26/)。
 - **Brent–WTI**：Reuters **10/26 09:59 UTC場中**でBrent**$114.82**、米WTI**$101.19**（それぞれ前営業日比-1.63%、-2.00%）だが、**同2026/12月限・同一UTC秒bid/ask未確認につき裁定／縮小は未判定**。出典：[Reuters更新市況](https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/)。
 - **ロシア軽油→米ULSD／AI信用→半導体**：新規の米国実荷揚げ、同年限同ベンダー信用系列とSOXの検証を得られず、**因果は未判定**。**コーン12月−翌3月保管キャリー**：所定の個別限月複数年度CSV `research/corn-dec-mar/data/input/futures_daily.csv` は今回取得できず**データ未取得・未判定**。単日カーブの-14.25¢/buから統計結果を作らない。
+
+## 2026-10-26 23:52 JST：ロシア軽油の供給余力と米国受渡を区別（元仮説を保持）
+
+[23:52 定点レビュー](../daily/2026-10-26-review-2352-jst.md)／[ロシア軽油：出荷までの段階別検証](../topics/2026-10-26-russian-diesel-output-quota-vs-us-arrival.md)。
+
+- **新事実・観測時点**：[Reuters 10/26 12:59 UTC](https://www.reuters.com/business/energy/russian-refiners-ramp-up-diesel-output-after-us-deal-sources-say-2026-10-26/)の業界関係者推計：ロシア軽油日産は9月約17.5万トン、10月上旬約16万トン、中旬以降約18万トンに向けて回復。季節需要約14万トン/日との差約4万トン/日は潜在的な輸出余力で、実船積・米国荷揚げ・価格低下ではない。Reuters報道の10/23 NY向けAISも着岸実績ではない。**供給回復方向は部分支持、米国のULSD価格効果は未判定**。反証：生産確報／港湾積出・通関が追随しない、または到着後のULSDやクラックが需給統制後に低下しない。
+- **中東輸送**：[Reuters 10/26 10:24 UTC](https://www.reuters.com/world/middle-east/how-houthi-attacks-have-grounded-flights-across-saudi-arabia-2026-10-26/)のCirium集計は10/8〜25にリヤド空港で4,071/4,736便が欠航（86%）。**航空の実障害は支持**、Yanbu原油輸出停止・海運運賃・日本船社の確定増益は**未判定**。反証：実際の港湾稼働・東西パイプライン流量・船舶成約が供給減を裏付けない。
+- **AI信用**：[Reuters 10/26 13:41 UTC](https://www.reuters.com/business/hsbc-cuts-global-equities-neutral-middle-east-ai-risks-2026-10-26/)のHSBC世界株評価引下げはリスク認識の表明。**同一銘柄・同一商品・同一年限のCDS/OAS改善悪化を示さず、SOX因果は未判定**。反証：信用スプレッドに一貫した超過拡大・先行性がない。
+- **Brent–WTI／タンカー／日本海運**：2026年12月限の両建て同期bid/ask、追加実成約TCE・部門確報なし。前回の条件付き支持と**裁定・確定利益未判定**を維持。TD3C係争の新たな裁判所判断は確認できていない。
+- **トウモロコシ12月限−翌3月限**：実測複数年清算値入力がリポジトリに存在しない（10/26点検）。**データ未取得・未判定**。反証：時点依存キャリーとコスト考慮後、20営業日後の年度外予測が再現しない。単日のカーブを戦略成果として扱わない。
+
+**検証の原則**：各資料の公表日時と参照期間、取引時点を分離。過去の仮説・数値・反証条件は改変しない。有料時系列と秘密情報は転載しない。
