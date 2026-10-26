@@ -171,3 +171,11 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **トウモロコシ12月限−翌3月限**：実測複数年清算値入力がリポジトリに存在しない（10/26点検）。**データ未取得・未判定**。反証：時点依存キャリーとコスト考慮後、20営業日後の年度外予測が再現しない。単日のカーブを戦略成果として扱わない。
 
 **検証の原則**：各資料の公表日時と参照期間、取引時点を分離。過去の仮説・数値・反証条件は改変しない。有料時系列と秘密情報は転載しない。
+
+## 2026-10-27 03:43 JST 定点照合（原仮説と既往結果は変更しない）
+[今回の定点レビュー](../daily/2026-10-27-review-0343-jst.md)／[Meta資本政策と信用の違い](../topics/2026-10-27-meta-equity-issuance-vs-ai-credit.md)／[原油・SPR・エジプト](../topics/2026-10-27-intraday-oil-rebound-spr-egypt.md)。
+- **価格更新**：[Reuters 10/26 16:37 UTC](https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/)はBrent **$117.21（+0.4%）**／WTI **$102.92（−0.34%）**という**場中参考値**。10/26午前の両銘柄下落からBrentは前日比プラスとなったが、両脚**同2026/12月限・同一UTC秒の執行可能bid/askを得ていない**。輸出裁定縮小は**未判定**。反証：湾岸価格・運賃補正後もスプレッドが縮まらず米国輸出も増えない。
+- **米SPR**：[Reuters 10/26 15:21 UTC](https://www.reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-10-26/)がDOEの**10/23週末282.6百万bbl**を報道。緊急供給余力低下の観測であり**中東実輸出減少を示さない**。[DOE 10/23公表](https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply)の40万bbl緊急交換は**承認**。反証・次の確認：SPR週次残高、10/25以降Yanbu実輸出と稼働、タンカー積出し。中東原油の新たな純供給減は**未判定**。
+- **中東政治**：[Reuters 10/26 13:08 UTC](https://www.reuters.com/world/middle-east/egypt-approves-military-support-saudi-arabia-after-houthi-attacks-escalate-2026-10-26/)のエジプト議会の防衛支援権限付与は**支持（決議の存在）**、派兵・Bab el-Mandebの通航回復は**未判定**。反証：正式な派兵要請・海上護衛・通航改善が確認できない。
+- **MetaとAI信用**：[Meta公式 10/26](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx)で**350億ドル公募（225億ドル普通株フォワード＋125億ドル強制転換優先預託証券）開始、将来最大600億ドルATM構想**。前者の全額現金即時受領でも後者の実行でもない。**資金調達需要の存在は支持**、同条件CDS/OAS悪化とSOXへの因果は**未判定**。反証：実調達・信用価格の超過悪化・半導体株の先行予測効果が出ない。
+- **タンカー／国内海運**：実成約・契約別TCE・10月以降の事業利益の確定新値なし、**未判定**。**ロシア軽油**：前回の生産回復方向部分支持を保持し米荷揚げとULSD影響は**未判定**。**トウモロコシ保管キャリー：データ未取得・未判定**。ライセンス付生価格や秘密情報を転載しない。
