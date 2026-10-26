@@ -132,3 +132,14 @@ Brent–WTIは**同限月・同UTC時刻bid/ask未取得につき裁定・縮小
 
 ## 2026-10-26 07:44 JST：取引時間の一次資料確認（市場判定は変化なし）
 [当回レビュー](../daily/2026-10-26-review-0744-jst.md)に、[ICE Brent公式取引時間](https://www.ice.com/products/219/Brent-Crude-Futures)および[ICE Brent/WTI上場スプレッド公式仕様](https://www.ice.com/products/1242/specs)の**日曜23:00ロンドン時間開始＝2026/10/26 08:00 JST**（英国10/25冬時間移行後）、[CME WTI公式](https://www.cmegroup.com/education/courses/event-contracts-underlying-markets/wti-overview)の日曜17:00米中部時間開始＝**07:00 JST**を記録。**07:44 JSTはICE Brent取引開始前**で、両脚の同一UTC時刻の約定可能bid/askが存在するとは扱わない。10/23同12月限の**$13.45/bblは異なる市場の別清算時点の算術差**という旧注意を保持。**Brent–WTI裁定未判定、その他の市場仮説も判定変更なし**。中東輸出は10/22以前の推計を10/25以降の実測と混同しない。タンカーの実現利益、ロシア軽油の米国荷揚げ、AI信用→SOXの因果はいずれも未判定。**トウモロコシの保管キャリーはデータ未取得・未判定**。反証条件と次の取得項目はレビューを参照。
+
+
+## 2026-10-26 11:52 JST 定点照合（元仮説と過去観測は保持）
+[今回のレビュー](../daily/2026-10-26-review-1152-jst.md)、[供給網強靱化ノート](../topics/2026-10-26-saudi-singapore-storage-resilience.md)。
+
+- **原油価格・Brent–WTI**：Reuters **10/26 02:32 UTC**の場中報道はBrent **$114.60**・米原油先物 **$101.13**、いずれも10/23終値から下落。WSJ **10/26 02:11 UTC**のLSEG参考値は**2026年12月限Brent $115.01／WTI $101.49（算術差$13.52）**。**両脚の同一UTC秒のbid/askなし**、10/23の清算値差$13.45との水準差を「輸出裁定による拡大・縮小」と結論づけない。**裁定仮説は未判定**。[Reuters](https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/)／[WSJ](https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e)。反証条件は、品質・輸送・保険コスト調整後も輸出増で差が縮小しないこと。
+- **中東供給リスク／備蓄政策**：Reuters **10/26 01:47 UTC**で、サウジ原油のシンガポール貯蔵を**2027年下期から**開始する**意向表明とMOU署名予定**を確認。**危機への供給網分散の動きは部分的支持**だが、**MOU締結完了・現物入庫・10/25以降のサウジ実供給減は未判定**。反証：計画未実施、在庫前置きが実際に途絶耐性を改善しない。[Reuters](https://www.reuters.com/business/energy/saudi-arabia-store-crude-oil-singapore-second-half-2027-2026-10-26/)。
+- **タンカー運賃・海運企業利益**：TD3C審理の予定は**実施・裁判所判断の確認前**。実成約TCE・船種/契約別の収益増は**未判定**。反証：指数が上昇しても実成約TCE・利益が伸びない。
+- **ロシア産軽油**：実際の米国荷揚げ・米ULSDクラック下落との因果は**未判定・新規確認なし**。反証：入港しない、輸入後も同条件調整後にULSD低下が生じない。
+- **AI信用・金融サイバー（区別）**：Reuters **10/26 01:48 UTC**で、GMO InternetのFXサービス不正アクセスをめぐる補償方針と**同日東京午前の同社株約11%下落（場中）**を確認。**個別事業者のオペレーショナルリスク事例を支持**するが、**AIによる攻撃の直接立証、銀行システム危機、AI企業CDS拡大、SOXへの因果はいずれも未判定**。反証：単独事象にとどまり銀行間決済・預金流出・同年限信用スプレッドへの連鎖がない。[Reuters](https://www.reuters.com/business/finance/japan-companies-compensate-users-cyberattacks-buffet-economy-2026-10-26/)。
+- **トウモロコシ12月−翌3月限保管キャリー**：複数作物年度の合法的な個別限月清算値履歴と当時公表済み保管費用・在庫・金利がないため、**データ未取得・未判定**を維持。10/23単日差-14.25¢/buは予測利益ではない。
