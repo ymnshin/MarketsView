@@ -96,3 +96,7 @@
 - [2026-10-27 03:43 JST：10/26原油場中反転・米SPR 282.6百万バレル・Metaの350億ドル公募／将来600億ドルATM・エジプト防衛権限を照合](daily/2026-10-27-review-0343-jst.md)（原油裁定と海運利益・AI信用因果は未判定、コーンは**データ未取得・未判定**。）
 - [Metaの資本調達計画：株式フォワード・強制転換優先株・将来ATMと信用リスクを分離](topics/2026-10-27-meta-equity-issuance-vs-ai-credit.md)
 - [中東原油の場中反転・米SPR緩衝力・エジプト防衛支援の観測](topics/2026-10-27-intraday-oil-rebound-spr-egypt.md)
+
+
+- [2026-10-27 07:44 JST：米原油10/26終値・イラク沖船舶火災の第三者通報・AIの630億ドルSPV融資とSOX引けを照合](daily/2026-10-27-review-0744-jst.md)（Brent–WTIの同時刻執行価格、原油純供給減、実現タンカー利益、AI信用→SOX因果は**未判定**。コーンは**データ未取得・未判定**。）
+- [Anthropic向けBroadcom機器630億ドルSPV：第一/第二順位と残価リスクを分離](topics/2026-10-27-anthropic-broadcom-spv-ai-credit.md)
