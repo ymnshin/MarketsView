@@ -143,3 +143,9 @@ Brent–WTIは**同限月・同UTC時刻bid/ask未取得につき裁定・縮小
 - **ロシア産軽油**：実際の米国荷揚げ・米ULSDクラック下落との因果は**未判定・新規確認なし**。反証：入港しない、輸入後も同条件調整後にULSD低下が生じない。
 - **AI信用・金融サイバー（区別）**：Reuters **10/26 01:48 UTC**で、GMO InternetのFXサービス不正アクセスをめぐる補償方針と**同日東京午前の同社株約11%下落（場中）**を確認。**個別事業者のオペレーショナルリスク事例を支持**するが、**AIによる攻撃の直接立証、銀行システム危機、AI企業CDS拡大、SOXへの因果はいずれも未判定**。反証：単独事象にとどまり銀行間決済・預金流出・同年限信用スプレッドへの連鎖がない。[Reuters](https://www.reuters.com/business/finance/japan-companies-compensate-users-cyberattacks-buffet-economy-2026-10-26/)。
 - **トウモロコシ12月−翌3月限保管キャリー**：複数作物年度の合法的な個別限月清算値履歴と当時公表済み保管費用・在庫・金利がないため、**データ未取得・未判定**を維持。10/23単日差-14.25¢/buは予測利益ではない。
+
+
+## 2026-10-26 15:50 JST 定点照合（元仮説・旧判定は保持）
+[当回レビュー](../daily/2026-10-26-review-1550-jst.md)を追記。Reuters **10/26 03:48 UTC**で、フーシ派によるサウジ東西パイプラインのポンプ場・リヤド空港への**新たな攻撃主張**を確認。ただし**サウジ側の同攻撃の即時確認なし**で、命中・損傷・操業停止・原油純供給減は**未判定**。攻撃主張の存在は安全保障リスク継続と整合、10/22までのKpler物量回復推計とは時点が違う。**反証／確認**：Saudi Aramco・政府の操業発表、Yanbuでの後続積出し、同一定義の船舶輸送量、保険料。[Reuters](https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/)。
+
+Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正常化を想定しないとの**見解**と冬季軽油需要・製油所定修への警戒を表明。[Reuters](https://www.reuters.com/business/energy/ieas-birol-does-not-expect-energy-markets-return-pre-war-levels-2027-2026-10-26/)。これは10/26実物供給量を測定した新値ではない。原油の10/26 **04:26 UTC場中** Reuters報道値はBrent $114.51、WTI $101.04（いずれも下落）。**同12月限の同一UTC秒bid/askがないため輸出裁定は未判定**。ロシア産軽油の米実荷揚げ・ULSD価格因果、タンカー実成約TCEと海運3社の追加実現利益、AI信用→SOXの因果も**未判定**を維持。Mercuria–Balticの10/26審理結果は未確認。**トウモロコシ保管キャリーはデータ未取得・未判定**、単日差-14.25¢/buを検証成果としない。
