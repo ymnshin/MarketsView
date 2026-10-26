@@ -53,3 +53,7 @@ AI設備投資の資金調達負担が信用スプレッドを拡大させ、株
 [Reuters 2026-10-26 13:41 UTC](https://www.reuters.com/business/hsbc-cuts-global-equities-neutral-middle-east-ai-risks-2026-10-26/)によると、HSBCは世界株式の推奨スタンスを『max overweight』から『neutral』に引き下げ、中東地政学リスクと米中間選挙前のAI規制懸念を理由とした。これは**市場参加者の見解を表すニュース**であり、Meta・Oracle等の社債OASやCDS、SOXの同時刻価格を新たに計測した事実ではない。10/23の信用スプレッド観測を更新せず、信用不安→SOXの因果関係は**未判定**のまま。
 
 **反証・次の取得点**：同じ発行体・銘柄・年限・ベンダーのOAS/CDSでスプレッドの継続的な超過拡大が見られるか。国債金利・市場全体・AI規制報道の同時要因を分離して半導体株の日中・夜間反応を標本外確認。[23:52レビュー](../daily/2026-10-26-review-2352-jst.md)。
+
+
+## 2026-10-27 03:43 JST：Meta株式公募を一次資料で追加照合
+[Meta 2026-10-26公式発表](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx)は約350億ドル（Class A普通株フォワード225億ドル＋強制転換型優先預託証券125億ドル）の公募開始と、2027年以降の最大600億ドルのATM売出し構想を記載。**Class Cの株式配布そのものは現金調達ではない**という既往記述を保持しつつ、**別途新規株式を発行すれば資金調達になる**と区別する。普通株フォワードは当初Metaへの入金を伴わず、将来ATMは契約・実行未確定。NVIDIA/AMD/Broadcom合計50億ドルは非拘束の購入意向。**資金調達需要・株主希薄化懸念の新材料は支持、信用スプレッドの追加拡大・SOXへの因果は未判定**。反証：実募集後も信用市場に異常プレミアムが残らず、市場調整後のSOXへの先行説明力がない。[詳細](../topics/2026-10-27-meta-equity-issuance-vs-ai-credit.md)。
