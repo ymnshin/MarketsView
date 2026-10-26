@@ -75,3 +75,10 @@ Reutersの**2026/10/23最終市況記事**ではBrent $116.72、WTI $103.27と�
 
 ## 2026-10-26 07:44 JST：取引時間の一次資料照合（裁定未判定）
 [ICE Brent先物の公式仕様](https://www.ice.com/products/219/Brent-Crude-Futures)と[Brent/WTI上場スプレッド仕様](https://www.ice.com/products/1242/specs)によれば、日曜の取引開始は**23:00ロンドン時間**、プレオープンは22:00。英国冬時間移行後の**2026/10/26 08:00 JST**がICEの取引開始。対して[CME WTI公式](https://www.cmegroup.com/education/courses/event-contracts-underlying-markets/wti-overview)では日曜**17:00米中部時間**から（10/26 07:00 JST）。**07:44 JSTはICE Brentの取引開始前**のため、同2026年12月限・同一UTC時刻・両脚bid/askに基づく新たな執行可能スプレッドは取得できない。10/23報道清算値差$13.45を新価格に流用しない。今後は08:00 JST以降の取引所提示の執行可能な両脚気配、板・コスト・海運物流を照合する。**仮説判定：未判定／変化なし**。詳細は[当回レビュー](../daily/2026-10-26-review-0744-jst.md)。
+
+
+## 2026-10-27 07:44 JST：10/26米国終値の確定と限月差の注意
+- [Reuters 10/26引け](https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/)はBrent **$115.81（-0.8%）**、WTI **$101.76（-1.46%）**。[WSJ 10/26 15:55 ET](https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e)がICE Brent **2026年12月限 $115.81**と**2027年1月限 $110.74**を区別。WTI側も当日の2026年12月限（CLZ26）終値に相当する（[限月別照合](https://www.barchart.com/futures/quotes/CLZ26)）。よって同じ12月限どうしの**報道終値の算術差 $14.05/bbl**を参考記録する。
+- 10/23の同月報道終値差$13.45との差**+$0.60**は、異なる取引所の**清算時刻・算出規則をそろえた同時刻の実売買気配ではない**ため、執行可能スプレッドの拡大や裁定成績を示さない。**輸出裁定縮小仮説は未判定**。
+- **反証条件/次点検**：同一UTC秒のICE/NYMEX 2026年12月限 bid/ask（両脚のサイズ・約定可能性）、WTI Midland/MEH価格、米国欧州向け実運賃・保険・米国原油輸出量で、実物裁定採算と価格差を比較する。2027年1月限Brent $110.74を12月限WTIと差し引かない。
+- [本日の定点レビュー](../daily/2026-10-27-review-0744-jst.md)参照。
