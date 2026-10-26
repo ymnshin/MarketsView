@@ -158,3 +158,16 @@ Reutersが**2026/10/23 14:58 UTC**に公表した記事では、10月のホル�
 Baltic Exchangeの[2026/03/25公式Circular 17/26](https://www.balticexchange.com/en/data-services/Circulars/market-announcements-/category-a/2026/circular-17-26--new-index---td34--dirty-270k-gulf-of-oman-to-chi.html)による**TD34（オマーン湾→中国）**試行は**TD3Cの置換ではない**。路線・船型・成約制約の異なる両者を一つの指数に接続しない。指数高騰から日本3社の追加増益を逆算せず、**個別船主の実成約日数・保険負担・実現TCE・セグメント利益**を優先。**判定：計測上の懸念の存在は支持、指数の実際の歪み・海運利益への確定影響は未判定**。反証条件は、条件調整した実成約の集計とTD3Cが持続的に整合すること。新しい市場価格・新たな2026年Q4確定利益は確認していない。
 
 根拠：[Reuters 2026/06/24（両当事者の立場）](https://www.reuters.com/world/china/baltic-exchange-defends-its-tanker-rates-reliable-during-iran-war-2026-06-24/)／[Lloyd's List 2026/10/21（請求変更）](https://www.lloydslist.com/LL1158761/Baltic-Exchange-warns-of-chaotic-consequences-if-Mercuria-wins)／[15:49レビュー](../daily/2026-10-25-review-1549-jst.md)。
+
+
+## 2026-10-26 19:52 JST：10/23予想の10/26終値による検証／Yanbu運賃コスト推計
+
+### 10/23に書いた「10/26の川崎汽船は同業より強いか」の結果
+
+当初の仮説を保持したまま**2026-10-26東証15:30終値**で検証。[川崎汽船](https://www.traders.co.jp/stocks/61_9107/historical)は**3,412円（10/23 3,326円、+2.59%）**、[商船三井](https://www.traders.co.jp/stocks/61_9104/historical)は**7,382円（7,207円、+2.43%）**、[日本郵船](https://www.traders.co.jp/stocks/61_9101/historical)は**7,266円（7,129円、+1.92%）**。川崎汽船は**同業2社単純平均+2.17%より+0.41ポイント強く**、事前に記載した**当日相対騰落率の方向仮説は限定的支持**。10/23夜PTSの3,415円を下回って引け、10/26高値は3,449円で事前目安3,450円超の条件は満たさない。「上方修正が株高を引き起こした」「持続的な上昇トレンド」は**未判定**。反証・留保：市場全体や他社固有材料の統制を加えると超過リターンが消える、以後の営業日で反転する等。
+
+### 運賃高騰を船会社の利益と同一視しないための追加情報
+
+[WSJ 2026-10-26 08:51 GMT](https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e)が**Rystad Energyの航路別分析**として、**サウジYanbu→中国Ningbo**の運送コストを**10/22時点$48/bbl、9月初め$24/bbl**と報じた。これは**10/22の推計値を10/26に二次報道したもの**であり、TD3Cとは異なる航路、実成約の航海傭船料、船主の実現TCE、日本海運3社の損益ではない。費用負担が売り手側なら高運賃はサウジ輸出者の**netback減**と整合的。同時に運航側の保険料・燃油費・迂回・未稼働日数も増え得る。**支持方向：輸送摩擦と原油の実際の供給数量の回復は両立する。未判定：特定船主の実現増益。** 反証：同じ航路・荷姿・日時・費用負担条件で実成約が推計を裏付けない、運賃が上がってもTCE/部門利益は改善しない。次回は成約とIR確定損益を確認。
+
+[19:52 定点レビュー](../daily/2026-10-26-review-1952-jst.md)。
