@@ -31,3 +31,7 @@ Kpler推計で地域合計が戦前を上回る一方、海峡の直接通航は
 4. JODI等の**公表日のラグ**、ベンダーの推計と確定統計の差、原油と石油製品のカバレッジ差をデータ辞書に残す。
 
 注：有料・ライセンス付き価格・船舶生データ・記事本文・認証情報は収録せず、公開済みの集計値を少量引用し、出典URLと解釈のみ記録した。
+
+
+## 2026-10-26 15:50 JST：新たな攻撃主張・IEA見解と物量実績の分離
+[今回のレビュー](../daily/2026-10-26-review-1550-jst.md)で、[Reuters 10/26 03:48 UTC](https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/)が報じた**フーシ派による東西パイプライン・ポンプ場とリヤド空港への攻撃主張**を確認。**サウジ側の同攻撃の即時確認はない**ため、10/22時点までのKpler輸出回復推計を「最新の攻撃でも無傷だった証拠」とせず、逆に攻撃主張を「実輸出減が起きた証拠」ともしない。反証・確認はAramcoの操業、Yanbu荷役、同一定義の10/26以降の船舶フロー、保険・実成約運賃。[Reuters 10/26 02:49 UTC](https://www.reuters.com/business/energy/ieas-birol-does-not-expect-energy-markets-return-pre-war-levels-2027-2026-10-26/)のIEA事務局長による2027年市場正常化に慎重な**見解**も取得したが、これは短期の実供給数量の実測値ではなく、数量評価は前節から変更しない。
