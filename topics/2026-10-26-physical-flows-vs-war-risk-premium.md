@@ -35,3 +35,7 @@ Kpler推計で地域合計が戦前を上回る一方、海峡の直接通航は
 
 ## 2026-10-26 15:50 JST：新たな攻撃主張・IEA見解と物量実績の分離
 [今回のレビュー](../daily/2026-10-26-review-1550-jst.md)で、[Reuters 10/26 03:48 UTC](https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/)が報じた**フーシ派による東西パイプライン・ポンプ場とリヤド空港への攻撃主張**を確認。**サウジ側の同攻撃の即時確認はない**ため、10/22時点までのKpler輸出回復推計を「最新の攻撃でも無傷だった証拠」とせず、逆に攻撃主張を「実輸出減が起きた証拠」ともしない。反証・確認はAramcoの操業、Yanbu荷役、同一定義の10/26以降の船舶フロー、保険・実成約運賃。[Reuters 10/26 02:49 UTC](https://www.reuters.com/business/energy/ieas-birol-does-not-expect-energy-markets-return-pre-war-levels-2027-2026-10-26/)のIEA事務局長による2027年市場正常化に慎重な**見解**も取得したが、これは短期の実供給数量の実測値ではなく、数量評価は前節から変更しない。
+
+
+## 2026-10-27 03:43 JST：米SPRと場中Brent戻し（中東輸出実測と分離）
+[Reuters 10/26 16:37 UTC](https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/)でBrent $117.21（場中+0.4%）、WTI $102.92（場中−0.34%）。**同時刻・同限月の取引可能なBrent–WTI差ではない**。同日、[Reuters 15:21 UTC](https://www.reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-10-26/)はDOEの10/23週末SPR残高**282.6百万bbl**を報道。これは米非常時備蓄の縮小であって、10/25以降のサウジ出荷減ではない。[Reuters 13:08 UTC](https://www.reuters.com/world/middle-east/egypt-approves-military-support-saudi-arabia-after-houthi-attacks-escalate-2026-10-26/)ではエジプト議会がサウジ防衛支援を授権、**実際の軍派遣・海上護衛、供給増減は未確認**。既存の「Kplerの10/22以前は中東輸出量回復方向」というデータを後から変更せず、**実物供給減の追加発生は未判定**。反証/確認：Yanbu実積出し、東西パイプライン稼働、SPR週次変化、同一航路タンカー成約を時点別に比較。[詳細](../topics/2026-10-27-intraday-oil-rebound-spr-egypt.md)。
