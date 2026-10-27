@@ -233,3 +233,13 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **ECB銀行融資（AIの一次資料）**：[ECB 10/27公表、調査09/21～10/06・対象2026Q3・159行](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html)では、**全企業向け**貸出基準ネット9%引締め、銀行の大半はAI専用の定量審査基準を未導入。AIインフラ向け融資需要の増加は予想であり実行済額ではない。**AI信用事故・SOX波及は未判定**。反証：独立の与信条件悪化、借換え費用増加、同条件企業の超過スプレッドが確認されない。
 - **中東実物流・海運利益**：[Reuters 10/27 06:13 UTC](https://www.reuters.com/business/energy/no-pressure-us-cut-russian-oil-imports-indian-oil-minister-says-2026-10-27/)のインド向け中東原油**9月輸入が戦前水準に回復**という観測を補足。ただし**9月着荷≠10月27日Ras Tanura操業・積出確報**。安全保障リスク継続は既存支持、追加原油純供給減・タンカー実成約TCE・日本船社実現利益は**未判定**。反証：同一出典・港別積出維持と運賃低下／高運賃でも保険等控除後TCE・企業利益が増えない。
 - **トウモロコシ12月限−翌3月限**：指定の複数作物年度の個別限月清算値`research/corn-dec-mar/data/input/futures_daily.csv`は引き続き404。**データ未取得・未判定**。反証：当時公表データのみによる年度外・保管キャリー超過・取引費用控除後の20営業日予測力が再現しない。実測価格なしに効果・収益を推定しない。
+
+
+## 2026-10-28 07:43 JST 定点照合（過去の仮説・観測・反証条件は保持）
+[07:43レビュー](../daily/2026-10-28-review-0743-jst.md)。新規事実は10/27原油の**引け後報道清算値**、Metaの**価格決定一次資料**、米国株の**引け**。出典のページ表示日と観測対象の市場日を区別する。
+- **Brent–WTI**：[WSJ](https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-assess-iran-diplomacy-saudi-attacks-95bb0210)／[石油市況日報](https://pflpetroleum.com/reports/petroleum-daily-report-10-27-2026/)の同**2026年12月限**の10/27引け後報道清算値はBrent **$113.88**、WTI **$99.90**、差**$13.98/bbl**。前回の17:44 UTC場中観測や10/26清算値とは種類が異なる。ICE/NYMEX**同一UTC秒の執行可能bid/askではない**ため輸出裁定の縮小は**未判定**。反証：費用控除純裁定と米輸出増・同期差縮小が成立しない。
+- **AI資金調達**：[Meta公式価格決定](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Pricing-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx)で普通株フォワード公募**$25bn**（当初$22.5bn）、強制転換優先株預託**$12.5bn**、合計**$37.5bnの価格決定**。既存の最大$60bn ATM（未実施）と合わせた$97.5bnを**入金済み**としない。普通株フォワードの当初着金予定なし、10/29受渡は未了。**株式調達経路の存在・具体化を支持、信用スプレッド悪化は未判定**。反証：公募不成立、ATM未実施、同一年限OAS/CDS悪化の予測性なし。
+- **米国AI関連株**：[Reuters 10/27米市場引け・16:22 EDT更新](https://ca.marketscreener.com/news/wall-street-ends-higher-on-revived-ai-momentum-ce785cddde81f423)でNasdaq Composite **+1.18%**、半導体株3営業日続伸、Meta **−1.6%**。同日・異なる企業の株価と信用債務価格は別。**AI信用スプレッド→SOX下押し因果は未判定**。反証：信用格差が縮小/統制後に消え、標本外で株価下落の先行予測性なし。
+- **中東・タンカー・日本海運**：Ras Tanura 10/27攻撃主張後の当局操業/積出し確報・同一航路fixture/TCE・日系船社利益は今回の追加資料で得られず、**安全保障リスク継続の既存支持**・**追加供給減と実現利益は未判定**。反証：実出荷維持や費用控除後利益改善なし。
+- **ロシア産軽油**：11月米港到着予定は既知だが、荷揚げ/通関および米ULSD価格効果の追加確報なし。生産回復の既存部分的支持を維持、**価格効果未判定**。反証：着荷が起こらない、需給調整後に価格波及なし。
+- **トウモロコシ12月−翌3月限**：公開遅延画面は歴史的個別限月清算値の代わりにならない。複数年度の清算値CSV未登録につき**データ未取得・未判定**。反証：当時利用可能な条件・保管/金利/基差・費用控除後20営業日OOSで再現性なし。ライセンス付き生データ・鍵は保存しない。
