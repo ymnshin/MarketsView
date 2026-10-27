@@ -188,3 +188,14 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **AI信用と半導体株**：[Broadcom・金融4社10/26公式](https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce)はAnthropicへの機器リースのための**630億ドルSPV融資構造**を公表（[Reuters 10/26 20:32 UTC](https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/)）。第一順位組成、第二順位コミット、Broadcomによる残価サポートは**資金調達・残価リスク経路の存在を支持**するが融資全額実行/損失/信用プレミアム拡大は未確認。10/26引け[Reuters](https://www.reuters.com/business/us-stock-futures-edge-up-oil-falls-heading-into-earnings-barrage-2026-10-26/)では**SOX +2.8%・Meta -1.9%**。単純な同日一律下落仮説は支持されず、**CDS/OASからSOXへの因果は未判定**。反証：同一定義信用指標の拡大・株式先行効果が統制後に再現しない。
 - **ロシア産軽油**：10/26生産回復方向は既存部分支持を維持。米国**着岸・荷揚げ/通関、ULSD価格因果は未判定**。反証：予定船が実際に荷揚げしない／米製品価格・クラックが需給統制後も下がらない。
 - **コーン12月限−翌3月限**：複数作物年度の個別限月清算値CSVは**データ未取得・未判定**。反証：保管キャリー超過と20営業日後の価格差変化が年度外・コスト控除後に再現しない。
+
+
+## 2026-10-27 11:48 JST 定点照合（元仮説と旧判定は保持）
+
+[11:48レビュー](../daily/2026-10-27-review-1148-jst.md)。**新たな中東迎撃報告と、AI需要縮小の条件付きシナリオ**を追記した。事前に定めた検証条件は変更しない。
+- **中東**：[Reuters 10/27 02:17 UTC](https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepted-houthi-missiles-drones-attacking-kingdom-2026-10-27/)で、連合が東部向け弾道ミサイル3発・南部向けドローン4機の迎撃を発表。**安全保障リスク継続を支持**、命中/施設損傷/Yanbu積出減による原油純供給減は**未判定**。反証・確認：Aramco操業・港湾実荷動き・損害の公式確報。
+- **10/27原油**：[Reuters 00:37 UTC公表、価格観測00:00 UTC](https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/)のBrent $115.15/WTI $101.32は**新しい取引日の場中価格**。同2026/12限・同一UTC秒のbid/askとは確認できず**Brent–WTI輸出裁定は未判定**。反証：輸送/品質差を引いても実際の裁定による米国輸出増・差の縮小が起きない。
+- **AI・半導体**：[Reuters 10/27 02:17 UTC](https://www.reuters.com/world/asia-pacific/bank-korea-warns-countrys-chip-exports-could-fall-by-up-100-billion-if-ai-2026-10-27/)はBOKの**悲観シナリオ**（2027年輸出が従来見通し比500億～1000億ドル減、韓国半導体単価10%低下の仮定、GDP成長率約0.4pt押し下げ）を引用。**実現予測値ではない**。[Reuters 01:46 UTC](https://www.reuters.com/world/china/global-markets-global-markets-2026-10-27/)の**日経平均+1.9%、KOSPI+4%超は場中値**。信用スプレッド実績および信用→SOX/日本半導体株の因果は**未判定**。反証：同条件OAS/CDSに悪化がなく、株式への先行性も標本外で再現しない。
+- **タンカー海運・ロシア軽油**：新たな実成約TCE・日系3社確定セグメント利益／米国軽油荷揚げ・ULSDの需給調整済価格影響は未確認で**未判定**。先行するロシア生産回復の部分支持は維持。反証：高運賃でも運航費・稼働日数のため実利益増がない／ロシア軽油が入港しないか米国内価格効果がない。
+- **コーン12月−翌3月キャリー**：GitHub APIで`research/corn-dec-mar/data/input/futures_daily.csv`は404。**データ未取得・未判定**。単日気配から統計・利益を推測しない。反証：年度外・時点依存キャリー・取引費用調整後に予測効果がない。
+
