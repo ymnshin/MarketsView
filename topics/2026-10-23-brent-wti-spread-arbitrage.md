@@ -86,3 +86,7 @@ Reutersの**2026/10/23最終市況記事**ではBrent $116.72、WTI $103.27と�
 
 ## 2026-10-27 23:50 JST：場中価格の更新と同期気配未取得
 [Reuters 10/27記事の直近価格観測13:11 GMT（22:11 JST）](https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/)ではBrent $114.81、WTI $100.98。前回19:52レビューに記した**09:18 GMT**の$116.26/$102.16と観測時刻が違い、**同一UTC時点・同一2026/12限の執行可能bid/askを両市場で確認できていない**。報道値の算術差を縮小裁定の実行損益には使用しない。**判定：未判定**。反証・次回：同時刻ICE/NYMEX両脚価格、WTI Midland/MEHの現物条件、保険・輸送/港湾費、米輸出数量が揃っても持続的な純裁定余地や輸出増が確認されないこと。[23:50レビュー](../daily/2026-10-27-review-2350-jst.md)。
+
+
+## 2026-10-28 07:43 JST：10/27の12月限引け後報道清算値（前回の場中記録は保持）
+[WSJ 10/27米国取引日・最終更新記事](https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-assess-iran-diplomacy-saudi-attacks-95bb0210)および[石油市況日報10/27](https://pflpetroleum.com/reports/petroleum-daily-report-10-27-2026/)：ICE Brent **2026/12限 $113.88/bbl（前日比−$1.93）**、NYMEX WTI **2026/12限 $99.90/bbl（−$1.86）**を「settled」と報告。**両者の報道清算値の算術差は$13.98/bbl**。前回記録の10/27 17:44 UTC場中$113.72/$99.83や10/26同月報道清算差$14.05を書き換えず併記する。比較上−$0.07でも、**ICE/NYMEXで清算時刻・算出方式が異なるため同一UTCの取引可能スプレッドではない**。WTI Midland/MEH現物価格、輸送・保険・積み出し費、米国原油輸出の裏付けなし。**縮小輸出裁定は未判定**。反証：同期気配による正味裁定が持続せず輸出数量・同期スプレッドとの仮説が成立しない。[07:43レビュー](../daily/2026-10-28-review-0743-jst.md)。
