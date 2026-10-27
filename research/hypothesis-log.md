@@ -214,3 +214,11 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **ロシア軽油**：[FT 10/27付（有料記事）](https://www.ft.com/content/d847744f-cfa5-4dc5-bdd2-faeee0b584f7)は**3隻約14万tの11月米港到着予定、うち制裁関係の船を含む**と報道。FT本文詳細、IMO・制裁名簿・AIS・米通関は独立未照合。**到着予定≠米荷揚げ≠ULSD下落**。生産回復は既存の部分的支持を維持、価格効果は未判定。反証：入港/荷揚げがなく、または米製品価格に需給調整後の下落なし。
 - **AI信用**：[Reuters 10/26 20:32 UTC](https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/)はAnthropic向け$63bn SPVの第一順位を**関係者2人による約$43.5bn推計**と報道。[10/26公式](https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce)はトランシェ額を開示していない。**信用条件・残価負担構造の追加資料、CDS/OAS拡大とSOXへの因果は未判定**。反証：信用スプレッドの同年限超過拡大・先行性を検出できない。
 - **トウモロコシ12月−翌3月限**：10/27 GitHub APIで研究入力CSV 404、複数年度個別限月履歴なし。**データ未取得・未判定**。反証：年度外・情報時点整合・保管/金利/基差/売買費用控除の予測力がない。ライセンス生データ・秘密鍵なし。
+
+
+## 2026-10-27 23:50 JST 定点照合（元の仮説と旧観測は保持）
+[23:50レビュー](../daily/2026-10-27-review-2350-jst.md)を追加した。前回19:52確認以降の新規報道の公表時刻と価格観測時刻は分けて扱う。
+- **中東・原油の実物流**：[Reuters 10/27 11:06 UTC](https://www.reuters.com/business/energy/yemens-houthis-say-they-launched-an-attack-saudi-ras-tanura-oil-refinery-2026-10-27/)はフーシ派のRas Tanura製油所へのミサイル攻撃・火災の**主張**を報じ、**サウジ未確認**。Bloomberg関係者情報による火災鎮圧報道もあり、稼働・港湾積出減は確認されない。製油能力55万b/dは被害や輸出減の量ではない。**安全保障リスク継続を支持、追加原油純供給減は未判定**。反証：公式被害報告・積出しデータが停止を裏付けず、実物フローが維持される。
+- **原油場中値／Brent–WTI**：[Reuters 10/27（価格観測13:11 GMT、22:11 JST）](https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/)のBrent $114.81/WTI $100.98は19:52レビューの09:18 GMT観測$116.26/$102.16から再反落。**12月限の同期両サイド気配ではなく、縮小裁定は未判定**。反証：品質・航路コスト調整後の米輸出裁定余地と輸出増・スプレッド縮小が観測されない。
+- **AI信用**：[Reuters 10/27 14:33 UTC](https://www.reuters.com/business/finance/neocloud-firm-argentum-ai-talks-5-billion-ai-chip-financing-sources-say-2026-10-27/)はArgentum AIが非投資適格顧客にリースするチップのための**50億ドル規模の資金調達を交渉中**と報道。**交渉・契約売上120億ドル超という関係者談は実融資や信用損失ではない**。信用力別の資金調達リスク経路は仮説を具体化するが、OAS/CDS悪化とSOX下押しの因果は**未判定**。反証：交渉不成立、信用補完によるリスク除去、同条件スプレッドと株価の予測力なし。[Argentumノート](../topics/2026-10-27-argentum-neocloud-credit.md)。
+- **海運増益・ロシア軽油**：実成約fixture/TCE・国内船社の確定増益と、11月予定便の米実荷揚げ／米ULSD価格効果に新たな確報なく**未判定**（ロシア生産回復の既存部分的支持は維持）。**トウモロコシ12月限−翌3月限キャリーはCSV未取得のため「データ未取得・未判定」**。
