@@ -27,3 +27,9 @@ SPV実行・第一/第二順位ローン額・利率・コベナンツ・RVS開�
 
 ## 2026-10-27 19:52 JST：第一順位額の報道推計（公式には未開示）
 [Reuters 2026-10-26 20:32 UTC](https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/)は関係者2人に基づき、**総額$63bnのSPVの第一順位資金を約$43.5bn（約69%）**と報道した。これは[銀行・Broadcomの2026-10-26共同公式発表](https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce)が**開示していないトランシェ内訳**なので、確定契約条件とせず「報道推計」と明示する。Broadcomの残価サポートは公式発表では第一順位相当額と記述されるが、発動条件・担保・法的求償・キャッシュ損失額は未確認。**判定：外部金融・残価移転経路の存在は支持、$43.5bnの最終確定・実融資・CDS/OAS変化およびSOXとの因果は未判定**。反証：トランシェ確定値が相違／実行しない、信用指標と株式の超過連動が標本外で再現しない。次：SEC、決算注記、SPV融資完了と価格条件、同ベンダー社債OAS/CDS。[レビュー](../daily/2026-10-27-review-1952-jst.md)。
+
+
+## 2026-10-27 23:50 JST：ネオクラウドの別の信用リスク経路（同一案件ではない）
+[Reuters 10/27 14:33 UTC](https://www.reuters.com/business/finance/neocloud-firm-argentum-ai-talks-5-billion-ai-chip-financing-sources-say-2026-10-27/)は、Argentum AIが**非投資適格格付け顧客にリースするチップ向けの50億ドル資金調達を交渉中**と報じた。Anthropic/Broadcomの**630億ドルSPVの第一順位約435億ドル（関係者推計）・残価サポート**とは異なる債務者・リース先・保証構造である。**交渉は成立や融資実行を意味せず、損失も確認されない**。AI設備信用には「担保となる機器の陳腐化」「借り手/リース先の返済能力」「供給企業による残価補填の有無」という別々のリスクがある。
+
+**判定：AI設備の信用市場への依存経路の存在を補強。ただし与信条件やCDS/OAS価格への波及、SOX下押しの因果は未判定。** 反証：実調達不成立、担保や保証で損失負担が実質解消、比較可能な信用マージンや株価連動に有意差なし。次：契約確定、信用補完、LTV、契約債務者格付け、実行/稼働を追跡。詳細は[Argentum信用ノート](2026-10-27-argentum-neocloud-credit.md)と[23:50レビュー](../daily/2026-10-27-review-2350-jst.md)。
