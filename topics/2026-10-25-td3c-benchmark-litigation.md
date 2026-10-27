@@ -29,3 +29,7 @@ MarketsViewの[世界・日本の海運分析](2026-10-24-global-vs-japan-shippi
 - [The National 2026-05-22：審理は10-26開始予定と報道](https://www.thenationalnews.com/news/uk/2026/05/22/financial-markets-losing-billions-in-middle-east-oil-tanker-pricing-feud-court-hears/)
 
 > 出典へのリンク・独自要約のみ。運賃指数の有料時系列や記事本文は転載しない。
+
+
+## 2026-10-27 19:52 JST：審理開始を確認（判決はまだ）
+[Lloyd's List 2026-10-26付](https://www.lloydslist.com/LL1158818/Trial-evidence-highlights-TD3C-scepticism--even-inside-Baltic-Exchange)は、英High CourtのMercuria–Baltic Exchange **TD3C審理が実際に開始した**と報じた。原告の冒頭書面は、過去の指数査定に疑問を示した一部パネリスト・社内担当者の発言を引用。一方、Baltic側は主張に争い、**原告提出の発言＝裁判所が指数不適切と認定した証拠ではない**。従来の「10/26開始予定」を消さずに後続事実を追加。**判定：指数の信頼性を巡る訴訟進行は確認、指数と実成約価格の乖離/無効・FFA決済への影響/日本船社実現TCEと利益は未判定**。反証：同条件の実成約・契約可能運賃との整合が立証されれば乖離仮説は弱まる。次：裁判所の経過と判決、Balticの反論、fixture/TCEを確認。[レビュー](../daily/2026-10-27-review-1952-jst.md)。
