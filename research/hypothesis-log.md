@@ -203,3 +203,14 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 [15:45レビュー](../daily/2026-10-27-review-1545-jst.md)。Reutersの10/27場中価格**04:18 UTC**はBrent $114.81 / WTI $100.88。両市場の2026/12限・同時刻bid/askではないため**Brent–WTI裁定未判定**。同記事内の**ANZ分析**は湾岸原油輸出4週続落・ホルムズ通常比約60%・中間留分在庫5年平均比約−5%とするが、**ANZ原資料/比較定義/対象週は未確認**。先行Kplerの「10/22時点までの10月中東地域輸出月途中平均回復・海峡約82%」と**別系列**として保持し、実際のサウジ被害・純輸出減・海運増益は**未判定**。反証は同一定義の最新の通航・出荷増、保険/実成約TCEの正常化。
 
 **AI信用**：[Reuters 10/27 06:08 UTC](https://www.reuters.com/technology/nvidia-meta-partner-muse-agent-nvidia-invests-3-billion-2026-10-27/)でNVIDIAはMetaの株式公募に**$3bn投資する意向**、Muse協業拡大を発表。既存のMeta 10/26資料の半導体供給企業合計最大$5bnの購入意向に**単純加算しない**。払い込みやCDS/OAS、SOXへの因果は**未判定**。反証は同一条件信用スプレッドの悪化・株価先行予測が再現しないこと。**ロシア軽油の米荷揚げと価格影響、日系海運会社の実現利益は未判定**。**トウモロコシ保管キャリーはデータ未取得・未判定**。
+
+
+## 2026-10-27 19:52 JST 定点照合（元仮説・過去の値は保持）
+[19:52レビュー](../daily/2026-10-27-review-1952-jst.md)を追記。新たな証拠による**条件付きの更新のみ**。価格の観測時間、報道の公開時刻、統計対象窓を区別する。
+
+- **Brent–WTI**：[Reuters 10/27 09:18 GMT時点](https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/)でBrent **$116.26**（+0.39%）、WTI **$102.16**（+0.39%）。04:18 UTC時点の$114.81/$100.88から場中反発。**同2026年12月限・同一UTC秒bid/ask未取得、執行可能裁定・縮小は未判定**。反証：品質・費用を補正した純裁定余地/米輸出増/持続縮小が生じない。
+- **中東実物流**：[WSJ 10/27 09:10 GMT、Kpler引用](https://www.wsj.com/finance/commodities-futures/oil-falls-amid-diplomatic-efforts-to-ease-u-s-iran-hostilities-c235ed0a)。**海峡直近7日平均9.34百万b/d（戦前17.15、約54%）**と、**イランを除く中東原油の10月ここまでの海外供給16.7百万b/d（戦前16.3）**は対象/期間/経路が異なる。**海峡輸送制約支持、広域原油追加純供給減は未判定**。10/22 Kpler 11.7百万b/d/82%やANZ 60%と連結不可。反証：同一定義の積出量が正常化、または通航減でも輸出総量・着荷量が維持される。
+- **タンカー／TD3C**：[Lloyd's List 10/26](https://www.lloydslist.com/LL1158818/Trial-evidence-highlights-TD3C-scepticism--even-inside-Baltic-Exchange)でMercuria–Baltic訴訟の**実際の審理開始**と、原告の内部証言引用を確認。ただし**司法判断・指数の虚偽認定ではない**。実成約TCE・日本3社の増益は**未判定**。反証：指数が同契約・航路で実成約の代表性を保つ／高運賃でも保険費・不稼働で実現利益が増えない。
+- **ロシア軽油**：[FT 10/27付（有料記事）](https://www.ft.com/content/d847744f-cfa5-4dc5-bdd2-faeee0b584f7)は**3隻約14万tの11月米港到着予定、うち制裁関係の船を含む**と報道。FT本文詳細、IMO・制裁名簿・AIS・米通関は独立未照合。**到着予定≠米荷揚げ≠ULSD下落**。生産回復は既存の部分的支持を維持、価格効果は未判定。反証：入港/荷揚げがなく、または米製品価格に需給調整後の下落なし。
+- **AI信用**：[Reuters 10/26 20:32 UTC](https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/)はAnthropic向け$63bn SPVの第一順位を**関係者2人による約$43.5bn推計**と報道。[10/26公式](https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce)はトランシェ額を開示していない。**信用条件・残価負担構造の追加資料、CDS/OAS拡大とSOXへの因果は未判定**。反証：信用スプレッドの同年限超過拡大・先行性を検出できない。
+- **トウモロコシ12月−翌3月限**：10/27 GitHub APIで研究入力CSV 404、複数年度個別限月履歴なし。**データ未取得・未判定**。反証：年度外・情報時点整合・保管/金利/基差/売買費用控除の予測力がない。ライセンス生データ・秘密鍵なし。
