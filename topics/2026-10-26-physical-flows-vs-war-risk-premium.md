@@ -39,3 +39,7 @@ Kpler推計で地域合計が戦前を上回る一方、海峡の直接通航は
 
 ## 2026-10-27 03:43 JST：米SPRと場中Brent戻し（中東輸出実測と分離）
 [Reuters 10/26 16:37 UTC](https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/)でBrent $117.21（場中+0.4%）、WTI $102.92（場中−0.34%）。**同時刻・同限月の取引可能なBrent–WTI差ではない**。同日、[Reuters 15:21 UTC](https://www.reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-10-26/)はDOEの10/23週末SPR残高**282.6百万bbl**を報道。これは米非常時備蓄の縮小であって、10/25以降のサウジ出荷減ではない。[Reuters 13:08 UTC](https://www.reuters.com/world/middle-east/egypt-approves-military-support-saudi-arabia-after-houthi-attacks-escalate-2026-10-26/)ではエジプト議会がサウジ防衛支援を授権、**実際の軍派遣・海上護衛、供給増減は未確認**。既存の「Kplerの10/22以前は中東輸出量回復方向」というデータを後から変更せず、**実物供給減の追加発生は未判定**。反証/確認：Yanbu実積出し、東西パイプライン稼働、SPR週次変化、同一航路タンカー成約を時点別に比較。[詳細](../topics/2026-10-27-intraday-oil-rebound-spr-egypt.md)。
+
+
+## 2026-10-27 11:48 JST：迎撃報告が増えても輸出数量減と同義ではない
+[Reuters 10/27 02:17 UTC（11:17 JST）](https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepted-houthi-missiles-drones-attacking-kingdom-2026-10-27/)で、サウジ主導連合が東部地域向け弾道ミサイル3発・南部向け無人機4機を迎撃したと発表。**これは新規の当局発表**であり、10/26のポンプ場への攻撃「主張」とは別の事象。サウジの港湾、東西パイプライン、Yanbuの原油積出しの**被害/実減は報道から測定できない**。したがって「航行・安全保障リスク継続」は支持する一方、**10/22までのKpler輸出物量推計の事後修正はせず、10/27の原油純供給減は未判定**。反証/検証：Aramco・サウジ政府の被害確報、Yanbu積出し、同一ソースによる10/26以降のフロー、保険料と実成約、航路・船種別TCEを照合。[定点レビュー](../daily/2026-10-27-review-1148-jst.md)。
