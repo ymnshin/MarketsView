@@ -21,3 +21,9 @@
 
 ## 2026-10-27 15:45 JST：NVIDIAの出資意向（10/26公募資料とは別時点）
 [Reuters 2026-10-27 06:08 UTC（15:08 JST）](https://www.reuters.com/technology/nvidia-meta-partner-muse-agent-nvidia-invests-3-billion-2026-10-27/)によれば、NVIDIAとMetaはMuseアシスタントとモデル群の共同開発拡大を発表し、NVIDIAはMetaの株式募集に**30億ドル出資する意向**を示した。10/26付Meta公表資料におけるNVIDIA等の**最大50億ドル（法的拘束力のない購入意向）**の後続観測とみなし、**30億ドルを別枠の増分として加算しない**。出資は**実行済み・着金済みとは未確認**。半導体供給者が主要顧客への資本供給も担うという「資金循環」の構造は具体化したが、投資収益性の悪化や信用不安の確証ではない。**判定：資本政策・出資予定の存在は支持、Meta/OracleのCDS/OAS悪化とSOX・日本半導体株への先行因果は未判定**。反証/次の確認：SEC・Meta/NVIDIA IRの最終引受条件、実際の購入/株数/払込、同一ベンダー・年限の信用スプレッド推移とイベント時間整合。[レビュー](../daily/2026-10-27-review-1545-jst.md)。
+
+
+## 2026-10-28 07:43 JST：Meta公募条件の一次資料確定と株価・信用市場の分離
+[Meta投資家IR：価格決定（掲載ページ2026-10-27／リリース本文2026-10-26）](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Pricing-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx)で、**普通株フォワード売出しを$22.5bn→$25.0bnへ増額し、$625/株×4,000万株**で価格決定したことを確認。同時に**強制転換優先株の預託証券250百万口×$50=$12.5bn**。したがって当初の約$35bnから**価格決定済み公募二本の名目合計$37.5bn**へ更新（旧公表値は消さない）。将来の**最大$60bn ATM計画と合算した$97.5bnは資金調達計画上限であり、着金済額ではない**。引受人のオーバーアロットメント・手数料・将来転換/フォワード決済は別建て。普通株フォワード売出しによる**Metaへの当初資金流入は想定されず**、条件付きで2027-11-19以前に決済予定。優先株の**累積配当6.50%**は純粋な普通株や固定利払社債と同一ではない。両公募の決済予定は10/29、まだ完了を確認していない。NVIDIA等による出資意向は今回の公募に対するものと扱い、別途$5bnを加算しない。
+
+[Reuters 2026-10-27 米国株引け（16:22 EDT更新）](https://ca.marketscreener.com/news/wall-street-ends-higher-on-revived-ai-momentum-ce785cddde81f423)ではNASDAQ Composite **+1.18%**、半導体株3営業日続伸の一方、Meta **−1.6%**。**信用リスク・資本調達・希薄化・株価リターンは別変数**であり、SOX下押し因果は依然**未判定**。反証／次：Meta 10/29の受渡・フォワード受領、将来ATMの実行、6.50%累積配当の資金支払と希薄化、同年限OAS/CDSとSOXの時間先行性。原資料の長文転載や有料クレジット系列なし。[07:43レビュー](../daily/2026-10-28-review-0743-jst.md)。
