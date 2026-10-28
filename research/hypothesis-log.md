@@ -267,3 +267,12 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **CBOTトウモロコシ12月限−翌3月限：データ未取得・未判定**。研究ディレクトリには研究計画・コード・台帳があるが複数年度の個別限月清算値が無い。推計収益/支持率は一切記載しない。
 
 **次回**：EIA公式在庫vs API速報、Aramco港湾/操業、Baltic実成約TCE、同UTC秒両脚原油気配、Beignetの取引時刻とOAS、半導体量産実績。公表日時・対象期間・限月を分離し、ライセンス付き生データ・秘密鍵を転載しない。
+
+
+## 2026-10-28 19:52 JST：Clarksea横断収入指数とAI信用・為替の波及経路（旧仮説は保持）
+
+[19:52定点レビュー](../daily/2026-10-28-review-1952-jst.md)／[Clarkseaと日系海運利益の分離](../topics/2026-10-28-clarksea-multi-sector-earnings-vs-japan.md)／[AI信用と為替](../topics/2026-10-28-ai-credit-flows-fx-contagion.md)。
+- **海運**：[Cinco Días 2026-10-28 05:30 CET](https://cincodias.elpais.com/mercados-financieros/2026-10-28/las-navieras-se-hacen-de-oro-con-el-alza-de-los-fletes-y-disparan-un-75-el-beneficio-medio-por-barco.html)はClarksea Indexの船種横断加重推計日収入**7.4万ドル超（前年比+75%、10年平均比+92%）**と報道。ただし原系列算出日・加重比を独立未照合。**海運全体の高収入環境は二次報道による支持材料／TD3Cの指数代表性、船主実現TCE、日本郵船/商船三井/川崎汽船の追加利益は未判定**。反証：同条件の成約・稼働日数と費用控除後利益が上昇しない。
+- **AI信用・ドル**：[Reuters 2026-10-28 04:03 UTC](https://www.reuters.com/world/asia-pacific/ai-worries-expose-dollars-hot-money-problem-2026-10-28/)は海外資金の米AI株/債券集中と、AI信用不安時の資金引揚げ→ドル安という条件付きの伝播を分析。一方、ドル調達逼迫時は一時的ドル高もありえる。**新しい研究経路の提起であり信用OAS/CDS→SOX→為替の実証済み因果ではない。判定未判定**。反証：金利差・他市場リスクを統制して標本外先行効果がない。
+- **EIA**：[公式予定](https://www.eia.gov/petroleum/supply/weekly/schedule.php)上、10/23週の週報公表は**2026-10-28 10:30 EDT=23:30 JST**。照合19:52 JSTでは**未公表時間帯**。APIの−2.03百万bblをEIA確定値扱いしない。公表後に原油/留出油/輸出を改訂・対象週とともに別記。
+- **原油同期裁定・Ras Tanura原油追加輸出減・ロシア軽油米荷揚げと米ULSD・日本船社実現利益・AI信用→SOX因果はいずれも未判定。コーン保管キャリー：データ未取得・未判定**。複数年度個別限月清算値CSVはGitHubのツリーに存在せず、利益/標本外成績を作らない。ライセンス生価格・秘密鍵なし。
