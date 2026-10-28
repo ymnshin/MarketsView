@@ -62,3 +62,7 @@ Kpler推計で地域合計が戦前を上回る一方、海峡の直接通航は
 [Reuters 2026-10-27 06:13 UTC](https://www.reuters.com/business/energy/no-pressure-us-cut-russian-oil-imports-indian-oil-minister-says-2026-10-27/)が報じたインド石油相の発言では、中東からの供給増と値引きによってインドは中東産原油への調達をシフトし、船舶追跡では**2026年9月のインド向け中東原油輸入は戦前水準に回復**。これは**インド向け・9月・原油の着荷系列**で、**10月27日のRas Tanura攻撃主張の実際の被害確認や同日の中東全域積出量ではない**。[同日17:44 UTCのReuters場中価格](https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/)はBrent $113.72、WTI $99.83（各−1.8%、−1.9%）。10/27 13:11 UTCの$114.81/$100.98からの追加下落だが、**正式清算値でも同12月限・同時刻bid/askの裁定差でもない**。同日にはRas Tanuraへの攻撃主張も残っており、「外交期待・リスクプレミアム変化」と「原油実物供給途絶」を切り離して解釈する。
 
 **判定**：インド向け9月の中東フロー回復は「海峡の通航低下＝必ず全域で輸出数量不足」という強い仮説に不利な補足材料。ただし異なる港・期間を混ぜて最新の純供給増減を推定しない。**安全保障リスク継続は既存支持、追加実供給減・Brent–WTI裁定は未判定**。**反証・次**：10月27日以降のRas Tanura/Yanbu港別積出・船舶着荷とAramco公式操業、同一条件のタンカー成約・費用、ICEとNYMEXの同期気配。[レビュー](../daily/2026-10-28-review-0347-jst.md)。
+
+
+## 2026-10-28 11:51 JST 新観測（過去の実物流推計と分離）
+[Reuters 10/28 01:49 UTC発行、01:40 UTC場中価格](https://www.reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28/)ではBrent $115.36、WTI $101.12。10/27清算から反発したが、**Ras Tanuraの10/27攻撃は依然としてフーシ派による主張**で、サウジ当局による製油所への命中・港湾積出損失の確認は得られない。**設備能力55万bbl/日を実減産としない**。輸送制約・将来リスクプレミアムの可能性は維持し、**中東全体の追加純供給減は未判定**。反証：同条件港別積出・製油所操業が正常のまま、高いプレミアムが消失する。同期Brent–WTIと船社実現TCEは今回も未取得。[日次レビュー](../daily/2026-10-28-review-1151-jst.md)。
