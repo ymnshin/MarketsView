@@ -127,3 +127,8 @@
 
 - [2026-10-28 19:52 JST：Clarksea船種横断の高収入指数・AI信用と米ドルへの波及仮説・EIA発表時刻を検証](daily/2026-10-28-review-1952-jst.md)（海運個社実益/同期Brent–WTI/信用→株為替は**未判定**、コーン**データ未取得・未判定**）。
 - [Clarksea指数と日本3社の利益を分離する](topics/2026-10-28-clarksea-multi-sector-earnings-vs-japan.md)／[AI信用とドル資金フローの対立シナリオ](topics/2026-10-28-ai-credit-flows-fx-contagion.md)。
+
+
+- [2026-10-28 23:48 JST：EIA 10/23終了週の公式在庫とAPI速報差・Bahri Q3実現増益・Aframax/LR2貨物流入を照合](daily/2026-10-28-review-2348-jst.md)（**米原油−1.9百万bbl・留出油−1.5百万bblはEIA公式実績**。Bahri Q3純利益SAR5.09bnで世界のタンカー船主の実現増益に具体例。ただし日本3社、Brent–WTI同期裁定、ロシア軽油対米価格効果、AI信用→株価は**未判定**。トウモロコシは**データ未取得・未判定**。）
+- [Bahri決算：実現利益とAframax/LR2高運賃・貨物の小型化](topics/2026-10-28-bahri-results-aframax-lr2-cascade.md)
+- [EIA週間原油・留出油在庫：10/28公式発表と民間速報の差](topics/2026-10-28-eia-oil-inventory-official-release.md)
