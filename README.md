@@ -135,3 +135,7 @@
 
 - [2026-10-29 03:49 JST：FRB 10/28 14:00 EDTの政策金利据置（10対2）、カナダ銀25bp利上げと中東燃料費波及、アデン空港攻撃報道を照合](daily/2026-10-29-review-0349-jst.md)（**同時刻・同限月Brent–WTI裁定、日系海運実利益、ロシア軽油対米価格、AI信用→SOX因果は未判定**。トウモロコシ：**データ未取得・未判定**）。
 - [米加金融政策・中東コストインフレ・AI信用の検証：公表時刻と信用指標を分離](topics/2026-10-29-fomc-boc-oil-ai-credit.md)。
+
+
+- [2026-10-29 07:52 JST：Alphabet 2026Q3のCloud売上+103%とFCF−$9.065bn、Microsoft Cloud+30%・Azure+48%、10/28米国株引けと原油参考清算値を分離して照合](daily/2026-10-29-review-0752-jst.md)（**AI需要と資金負担の併存は個社部分支持、CDS/OAS→SOX・為替、Brent–WTI同期裁定、日本船社利益、米国軽油価格因果は未判定**。トウモロコシは**データ未取得・未判定**）。
+- [Alphabet・Microsoftの一次決算：営業成長、FCF、Q3社債・株式調達の時点を分離](topics/2026-10-29-alphabet-microsoft-ai-cashflow-credit.md)。
