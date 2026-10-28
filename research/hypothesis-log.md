@@ -276,3 +276,16 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **AI信用・ドル**：[Reuters 2026-10-28 04:03 UTC](https://www.reuters.com/world/asia-pacific/ai-worries-expose-dollars-hot-money-problem-2026-10-28/)は海外資金の米AI株/債券集中と、AI信用不安時の資金引揚げ→ドル安という条件付きの伝播を分析。一方、ドル調達逼迫時は一時的ドル高もありえる。**新しい研究経路の提起であり信用OAS/CDS→SOX→為替の実証済み因果ではない。判定未判定**。反証：金利差・他市場リスクを統制して標本外先行効果がない。
 - **EIA**：[公式予定](https://www.eia.gov/petroleum/supply/weekly/schedule.php)上、10/23週の週報公表は**2026-10-28 10:30 EDT=23:30 JST**。照合19:52 JSTでは**未公表時間帯**。APIの−2.03百万bblをEIA確定値扱いしない。公表後に原油/留出油/輸出を改訂・対象週とともに別記。
 - **原油同期裁定・Ras Tanura原油追加輸出減・ロシア軽油米荷揚げと米ULSD・日本船社実現利益・AI信用→SOX因果はいずれも未判定。コーン保管キャリー：データ未取得・未判定**。複数年度個別限月清算値CSVはGitHubのツリーに存在せず、利益/標本外成績を作らない。ライセンス生価格・秘密鍵なし。
+
+
+## 2026-10-28 23:48 JST 定点レビュー追記：EIA公式在庫、Bahriの実現増益とAframax/LR2の貨物分割
+
+**観測時点**：2026-10-28 23:48 JST（14:48 UTC）。以前の仮説/反証条件と2026-10-28 19:52レビューを保持し、以下の**新たに確認した情報のみ**追加。
+
+1. **米原油在庫：当該週の減少は公式統計で支持、個別輸送仮説は未判定**。[EIA公式要約](https://ir.eia.gov/wpsr/summary.txt)／[JSON](https://ir.eia.gov/wpsr/psw00.json)。公表2026-10-28 10:30 EDT（23:30 JST）、対象2026-10-23終了週：商業原油（SPR除外）**前週比−1.9百万bbl、残高410.6百万bbl**、ガソリン**+3.9百万bbl**、留出油**−1.5百万bbl**、製油処理**16.5百万b/d**、輸入**6.4百万b/d**。APIの先行する**−2.03百万bbl**と数値差**約0.13百万bbl**だが、これは**異なる民間速報と政府確定統計の差**であり「EIAの値の改訂」ではない。**反証・追加検証**：次週の在庫戻り、地域別輸入・需要・精製要因を統制して特定の輸送因果が消えること。EIAの留出油在庫減は**ロシア軽油の米国荷揚げを直接証明しない**。
+2. **タンカー高運賃→実現利益：個社事例で部分支持を強化**。サウジBahriが**2026年7–9月Q3の結果を10月28日公表**。[TradeArabia（企業発表を再掲）](https://www.tradearabia.com/News/488751/Bahri-Q3-net-zooms-891_Percent-to-%241.36bn-9M-net-surges-587_Percent)／[Bloomberg転載](https://gcaptain.com/saudi-tanker-giant-posts-10-fold-profit-jump-as-ship-rates-surge/)／[Seatrade](https://www.seatrade-maritime.com/tankers/bahri-profit-leaps-almost-900-in-third-quarter)：売上高**SAR14.83bn（前年同期比+504%）**、純利益**SAR5.09bn（+891%）**、Bahri Oilの実現VLCC運賃上昇および傭船増が主因との会社説明。**世界の特定タンカー船主には実現増益例がある**が、原油生産量・運賃以外の操業変化もある。**反証**：費用・稼働率・契約を同条件にすると運賃要因が利益の説明変数にならないこと。**日本郵船/商船三井/川崎汽船の実現タンカー利益は未判定**。Bahriと契約条件が異なるので一律推計しない。
+3. **船型別運賃：二次報道で部分支持、実際の約定とは区別**。[Riviera 2026-10-28付記事](https://www.rivieramm.com/news-content-hub/aframaxlr2-tanker-rates-hit-record-highs-as-vlcc-cargo-cascade-boosts-demand-90399)がBRS Shipbrokers**2026-10-26報告**を引用。前週のBaltic Aframax TCEバスケット**約$385,000/日**、中東湾→日本LR2**約$320,000/日**。新造LR2初航海22隻中13隻が原油を輸送しているとの報告。**10月運賃と7–9月Q3利益は別期間**。TD3C/Clarksea/実成約/TCE/日本船社純利益とは別系列。**反証**：BRS原報告と実約定条件で当該参考水準が裏付かない、費用控除後利益が出ない。
+4. **他の既存仮説：判定を維持**。Brent–WTIは**同一2026年12月限・同一UTC秒のICE/NYMEX bid/ask未取得のため未判定**。中東追加供給減、ロシア軽油米国価格低下、AI信用OAS/CDS→SOX・為替の先行因果も**未判定**。サウジ攻撃主張は実際の港湾停止・積出減を意味しない。**トウモロコシ12月限−翌3月限：データ未取得・未判定**（複数作物年度の個別限月清算値履歴なし、費用控除後OOS成績未算出）。
+5. **次の測定**：EIA詳細表の原油輸出・PADD1留出油輸入、Bahri 4030の正式IR原本・部門別利益、日本3社船型別実績と運航費、同日時・同限月Brent/WTI気配、Russian dieselの入港/通関、AI信用同年限スプレッド、コーンに必要な契約別履歴と取扱許諾。
+
+詳細：[23:48レビュー](../daily/2026-10-28-review-2348-jst.md)／[Bahri・Aframax/LR2](../topics/2026-10-28-bahri-results-aframax-lr2-cascade.md)／[EIA公式週報](../topics/2026-10-28-eia-oil-inventory-official-release.md)。ライセンス付き生データ・秘密情報は掲載していない。
