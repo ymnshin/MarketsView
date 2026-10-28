@@ -132,3 +132,6 @@
 - [2026-10-28 23:48 JST：EIA 10/23終了週の公式在庫とAPI速報差・Bahri Q3実現増益・Aframax/LR2貨物流入を照合](daily/2026-10-28-review-2348-jst.md)（**米原油−1.9百万bbl・留出油−1.5百万bblはEIA公式実績**。Bahri Q3純利益SAR5.09bnで世界のタンカー船主の実現増益に具体例。ただし日本3社、Brent–WTI同期裁定、ロシア軽油対米価格効果、AI信用→株価は**未判定**。トウモロコシは**データ未取得・未判定**。）
 - [Bahri決算：実現利益とAframax/LR2高運賃・貨物の小型化](topics/2026-10-28-bahri-results-aframax-lr2-cascade.md)
 - [EIA週間原油・留出油在庫：10/28公式発表と民間速報の差](topics/2026-10-28-eia-oil-inventory-official-release.md)
+
+- [2026-10-29 03:49 JST：FRB 10/28 14:00 EDTの政策金利据置（10対2）、カナダ銀25bp利上げと中東燃料費波及、アデン空港攻撃報道を照合](daily/2026-10-29-review-0349-jst.md)（**同時刻・同限月Brent–WTI裁定、日系海運実利益、ロシア軽油対米価格、AI信用→SOX因果は未判定**。トウモロコシ：**データ未取得・未判定**）。
+- [米加金融政策・中東コストインフレ・AI信用の検証：公表時刻と信用指標を分離](topics/2026-10-29-fomc-boc-oil-ai-credit.md)。
