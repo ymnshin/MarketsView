@@ -124,3 +124,6 @@
 - [2026-10-28 15:43 JST：RBNZの燃料インフレ・AI信用への一次評価、Equinor Q3実益、CXMTのHBM歩留まり報道、Beignet債券評価、API原油在庫速報を照合](daily/2026-10-28-review-1543-jst.md)（同期Brent–WTI裁定・中東純供給減・日本船社実益・ロシア軽油米価格効果・AI信用→SOX因果は**未判定**。コーンは**データ未取得・未判定**。）
 - [RBNZの原油・海運・AI信用リスク評価とEquinor Q3実現利益](topics/2026-10-28-energy-inflation-rbnz-equinor.md)（決算実績と物価予測は別）。
 - [CXMT HBM歩留まり・機器担保残価仮説とBeignet債券二次価格](topics/2026-10-28-cxmt-hbm-and-beignet-credit.md)（匿名推計/時刻不明価格と検証済み信用OASは別）。
+
+- [2026-10-28 19:52 JST：Clarksea船種横断の高収入指数・AI信用と米ドルへの波及仮説・EIA発表時刻を検証](daily/2026-10-28-review-1952-jst.md)（海運個社実益/同期Brent–WTI/信用→株為替は**未判定**、コーン**データ未取得・未判定**）。
+- [Clarksea指数と日本3社の利益を分離する](topics/2026-10-28-clarksea-multi-sector-earnings-vs-japan.md)／[AI信用とドル資金フローの対立シナリオ](topics/2026-10-28-ai-credit-flows-fx-contagion.md)。
