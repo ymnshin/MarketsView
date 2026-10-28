@@ -253,3 +253,17 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **調達先分散**：[Reuters 10/28 01:23 UTC](https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28/)のGoogle TPU購入計画は二次情報・未契約。GPU残価/貸付担保への波及**未判定**。反証：実取引・残価価格・担保掛目の変化なし。
 - **ロシア軽油・タンカー運賃・日本海運**：11月実荷揚げ、同一航路実成約とTCE、増分部門利益の確報なし。既存の精製回復の部分支持を維持し、米国軽油価格効果・船社増益は**未判定**。
 - **トウモロコシ保管キャリー**：複数年度・個別限月清算値CSV未取得につき**データ未取得・未判定**。20営業日後の統計結果や利益を作らない。
+
+
+
+## 2026-10-28 15:43 JST：金融政策のエネルギー波及・生産者実益・AI担保残価と個別債券報道（原仮説を維持）
+
+[15:43定点レビュー](../daily/2026-10-28-review-1543-jst.md)／[RBNZとEquinorの因果の切分け](../topics/2026-10-28-energy-inflation-rbnz-equinor.md)／[CXMTとBeignet：品質差・信用価格の切分け](../topics/2026-10-28-cxmt-hbm-and-beignet-credit.md)を追加。
+- [RBNZ一次資料、2026-10-28（14:00 NZDT／10:00 JST）](https://www.rbnz.govt.nz/news-and-events/news/2026/10/ocr-held-at-2-75-percent)：OCRを2.75%に4対3で据え置き。CPI2026Q3前年比3.7%は**実績**、2026Q4の4.4%は**燃料価格等を前提とする予測**。原油供給・製品/船舶輸送価格の高騰と、不透明なAI投資融資・長期金利の金融安定リスクに言及。**判定：中東発のコスト波及を中銀が検討する事実を支持。実際の供給量減・将来インフレ実現・AI信用損失は未判定**。反証：事後の価格・期待インフレに二次影響が残らず、金融不安も発生しない。
+- [Reuters 2026-10-28 05:49 UTC（14:49 JST）](https://www.reuters.com/business/equinor-profit-jumps-middle-east-war-lifts-oil-gas-prices-2026-10-28/)：Equinorの2026Q3調整後税引前利益$12.34bn（前年同期$6.22bn）、2026年生産伸長見通し約4%へ引上げ。**判定：中東外生産者の高値受益を個社実績で支持。ただし日本タンカー船社の収益性は未判定**。反証：企業部門別で価格ではなく一時的要因等が主要増益理由となる、海運会社の実現TCE・契約別利益が増えない。
+- [Reuters 2026-10-28 04:50 UTC（13:50 JST）](https://www.reuters.com/world/china/chinas-cxmt-start-advanced-ai-memory-production-despite-poor-yields-sources-say-2026-10-28/)：CXMTのHBM3E限定量産計画と匿名関係者の歩留まり20～30%・SK hynix約70%推計。**判定：製造品質・競争環境の差を調査する必要性は支持、GPU/AI機器担保残価や信用損失は未判定**。反証：同等機器の再販価格/与信掛目に差が認められない。
+- [Barron's 2026-10-28付（価格観測日時未確認）](https://www.barrons.com/articles/meta-platforms-bond-ai-data-center-3094ec88)：Beignet SPVの約$27.3bn債券が額面約$0.92・利回り約7.3%との二次報道。個別CUSIP・時刻・国債金利を未照合。**判定：債券価格の報道を確認／信用OAS拡大と信用→SOX因果は未判定**。反証：同条件の国債・流動性調整後に信用悪化が再現しない。
+- [Reuters 2026-10-28（04:35 UTC報道価格観測）](https://www.reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28/)：API関係者ベースの10/23終了週米原油在庫**−2.03百万bbl**。**公式EIAを未取得**、改訂前民間速報であり確定増減と扱わない。**Brent–WTI同12月限・同UTC秒・bid/askは未取得→裁定未判定**。Ras Tanuraの損傷実績、海運成約、ロシア軽油の11月米荷揚げも未判定。
+- **CBOTトウモロコシ12月限−翌3月限：データ未取得・未判定**。研究ディレクトリには研究計画・コード・台帳があるが複数年度の個別限月清算値が無い。推計収益/支持率は一切記載しない。
+
+**次回**：EIA公式在庫vs API速報、Aramco港湾/操業、Baltic実成約TCE、同UTC秒両脚原油気配、Beignetの取引時刻とOAS、半導体量産実績。公表日時・対象期間・限月を分離し、ライセンス付き生データ・秘密鍵を転載しない。
