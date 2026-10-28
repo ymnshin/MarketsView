@@ -119,3 +119,8 @@
 
 - [2026-10-28 11:51 JST：原油アジア場中反発とRas Tanura被害未確認、SK hynix 2026Q3一次決算とAI信用の分離](daily/2026-10-28-review-1151-jst.md)（同期Brent–WTI裁定・中東純供給減・タンカー実益・ロシア軽油米価格効果・信用→SOX因果は未判定。コーンは**データ未取得・未判定**。）
 - [SK hynix 2026Q3実需・長期供給契約とAI設備金融の信用リスクを区別](topics/2026-10-28-sk-hynix-ai-demand-vs-credit.md)
+
+
+- [2026-10-28 15:43 JST：RBNZの燃料インフレ・AI信用への一次評価、Equinor Q3実益、CXMTのHBM歩留まり報道、Beignet債券評価、API原油在庫速報を照合](daily/2026-10-28-review-1543-jst.md)（同期Brent–WTI裁定・中東純供給減・日本船社実益・ロシア軽油米価格効果・AI信用→SOX因果は**未判定**。コーンは**データ未取得・未判定**。）
+- [RBNZの原油・海運・AI信用リスク評価とEquinor Q3実現利益](topics/2026-10-28-energy-inflation-rbnz-equinor.md)（決算実績と物価予測は別）。
+- [CXMT HBM歩留まり・機器担保残価仮説とBeignet債券二次価格](topics/2026-10-28-cxmt-hbm-and-beignet-credit.md)（匿名推計/時刻不明価格と検証済み信用OASは別）。
