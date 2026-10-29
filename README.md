@@ -143,3 +143,7 @@
 
 - [2026-10-29 11:43 JST：MicrosoftのFCF+$18.633bnとAlphabetの四半期FCF−$9.065bn、引け後株価の明暗、Samsung DS利益・HBM4実需、米イラン外交期待とBrent12月限の10/30満期を照合](daily/2026-10-29-review-1143-jst.md)（**AI需要とキャッシュ創出力の違いは個社部分支持／信用→SOX因果・同限月同期Brent–WTI裁定・日本船社実益・米軽油価格効果は未判定**。コーン**データ未取得・未判定**）。
 - [AI企業のキャッシュ創出力による選別とSamsung決算](topics/2026-10-29-ai-cashflow-selectivity-samsung.md)／[原油外交観測とICE Brent満期](topics/2026-10-29-crude-diplomacy-near-expiry.md)。
+
+
+- [2026-10-29 15:45 JST：サウジ輸出のVortexa／Kpler／TankerTrackers推計差、EIA米国輸出とKpler船積みの不一致、ロシア精製回復推計、Samsungの還元期待を追加照合](daily/2026-10-29-review-1545-jst.md)（**同限月同期Brent–WTI裁定、追加中東純供給減、ロシア軽油米価格効果、日本船社実益、AI信用→株価因果は未判定**。トウモロコシ**データ未取得・未判定**）。
+- [サウジ／米国の原油輸出推計不一致と現物リスクプレミアム：ベンダーと測定母集団の差](topics/2026-10-29-saudi-us-export-estimates-physical-premium.md)。
