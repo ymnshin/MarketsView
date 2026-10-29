@@ -147,3 +147,6 @@
 
 - [2026-10-29 15:45 JST：サウジ輸出のVortexa／Kpler／TankerTrackers推計差、EIA米国輸出とKpler船積みの不一致、ロシア精製回復推計、Samsungの還元期待を追加照合](daily/2026-10-29-review-1545-jst.md)（**同限月同期Brent–WTI裁定、追加中東純供給減、ロシア軽油米価格効果、日本船社実益、AI信用→株価因果は未判定**。トウモロコシ**データ未取得・未判定**）。
 - [サウジ／米国の原油輸出推計不一致と現物リスクプレミアム：ベンダーと測定母集団の差](topics/2026-10-29-saudi-us-export-estimates-physical-premium.md)。
+
+
+- [2026-10-29 19:49 JST：EIA米原油輸出を公式週次詳細表で裏取り、Samsung・SK hynixの韓国確定終値と米プレマーケットを区別](daily/2026-10-29-review-1949-jst.md)（Brent–WTI裁定・AI信用波及未判定、コーンは**データ未取得・未判定**）
