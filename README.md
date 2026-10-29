@@ -157,3 +157,6 @@
 
 - [2026-10-30 03:51 JST：Shell/Totalの輸送費・実現マージン、ロシア11月軽油輸出枠案、Microsoft社債募集とECB一次決定を照合](daily/2026-10-30-review-0351-jst.md)（**Brent–WTI同期裁定・日本船社実益・米軽油価格因果・AI信用→株/為替は未判定**、トウモロコシ：**データ未取得・未判定**）。
 - [タンカー運賃高騰の荷主側コストとロシア軽油輸出枠案](topics/2026-10-30-freight-costs-and-russian-diesel.md)／[ECB据置・Microsoft社債募集の時点別検証](topics/2026-10-30-ecb-microsoft-funding.md)。**Shellのリース評価増は非現金会計効果**、**軽油200万トンは11月予定枠**、**Microsoftの$25bnは報道上の計画額**であり実際の現金移動/約定確報と扱わない。
+
+- [2026-10-30 07:46 JST：日本郵船10/29通期予想上方修正の船種別帰属、米10/29通常終値、Microsoft社債注文$100bn超、原油清算値、ホルムズLNGヘッジ](daily/2026-10-30-review-0746-jst.md)（**NYKの上方修正は予想でありタンカー実績ではない**。Brent–WTI同期裁定・AI信用→SOX/為替・ロシア軽油米価格は未判定、コーンは**データ未取得・未判定**。）
+- [NYK上方修正のコンテナ/ドライバルク/エネルギー帰属](topics/2026-10-30-nyk-outlook-business-mix.md)／[米株確定終値とMicrosoft社債注文需要](topics/2026-10-30-ai-us-close-bond-demand.md)。
