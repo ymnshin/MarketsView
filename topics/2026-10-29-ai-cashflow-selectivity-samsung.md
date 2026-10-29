@@ -26,3 +26,9 @@
 ## 2026-10-29 19:49 JST 追補：韓国10/29確定終値と米国プレマーケットを分離
 [聯合ニュース2026/10/29 16:34 KST](https://en.yna.co.kr/view/AEN20261029009452320)により韓国市場15:30 KST終値を確認：**Samsung 232,000ウォン・−4.13%、SK hynix 1,530,000ウォン・+2.62%、KOSPI 5,937.66・−1.24%**。SamsungとSKの騰落差は**−6.75%ポイント**。11:43・15:45の「Samsung場中一時−6.2%」は当日の場中安値方向であり、今回の確定終値と矛盾する訂正値ではない。聯合はSamsungの株主還元計画の詳細不足と予想対比の決算を投資家不満の候補として報道。**FCFまたはCDSによる因果ではない**。
 [Reuters 2026/10/29 08:33 UTC、05:18 ET時点気配](https://www.reuters.com/business/nasdaq-futures-slide-mixed-big-tech-results-test-ai-trade-2026-10-29/)は米株寄付き前Alphabet−10.2%、Microsoft+3.6%、Nasdaq100先物−1.01%。**プレマーケットと通常引けを区別**する。**AI実需要の個社部分支持・株価選別の観測方向は維持、AI信用CDS/OAS→SOX/為替因果は未判定**。反証：金利・決算サプライズ・株主還元期待を統制すると資金創出力の超過説明力が消える／同年限信用スプレッドの先行効果が再現しない。[レビュー](../daily/2026-10-29-review-1949-jst.md)。
+
+
+## 2026-10-29 23:44 JST追補：米株通常取引の場中反応とMicrosoft起債計画
+- [Reuters 10/29米株逐次更新](https://www.reuters.com/business/nasdaq-futures-slide-mixed-big-tech-results-test-ai-trade-2026-10-29/)（価格観測 **09:56 EDT＝22:56 JST**）ではAlphabet **約−13%**、Microsoft **約−0.5%**、SOX **約−1.8%**、Nasdaq総合 **−1.64%**、S&P500 **−0.51%**。同日19:49 JSTレビューの**プレマーケット**Alphabet−10.2%/Microsoft+3.6%とは時点が異なり、**通常取引の確定終値は未取得**。Alphabetの広告売上の市場予想比弱さと投資CFが交絡し、株価差をFCFだけに帰属できない。**株価選別の場中整合を追加／信用CDS・OAS→SOX・為替への因果は未判定**。
+- [Bloomberg初報を伝えるBenzinga（10/29 09:29 ET）](https://www.benzinga.com/markets/tech/26/10/62696205/microsoft-goes-jumbo-25-billion-bond-sale-in-the-works)と上記Reutersによれば、Microsoftは**少なくとも$25bn、最大10トランシェ**の米ドル投資適格社債発行を**計画**。格付AAA企業が資金調達方法を増やすことは、即時の資金繰り危機を意味しない。**計画規模・初期条件と実際の最終発行規模・利回り・受渡を区別**する。Microsoft 2026年7〜9月期FCF **+$18.633bn**、Alphabet同期 **−$9.065bn**という既存一次実績とは別の10/29報道情報として記録。
+- **反証**：実発行が見送り/縮小、米国債・同格付同年限IGとの新発スプレッドが通常範囲内、決算サプライズと金利を統制すると信用市場の株式先行性が消える。**次**：MicrosoftのSEC/IR最終目論見書とプライシング、同年限OAS/CDS、米10/29確定終値、格付別対照群。[23:44レビュー](../daily/2026-10-29-review-2344-jst.md)。
