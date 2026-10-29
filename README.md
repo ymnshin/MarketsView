@@ -139,3 +139,7 @@
 
 - [2026-10-29 07:52 JST：Alphabet 2026Q3のCloud売上+103%とFCF−$9.065bn、Microsoft Cloud+30%・Azure+48%、10/28米国株引けと原油参考清算値を分離して照合](daily/2026-10-29-review-0752-jst.md)（**AI需要と資金負担の併存は個社部分支持、CDS/OAS→SOX・為替、Brent–WTI同期裁定、日本船社利益、米国軽油価格因果は未判定**。トウモロコシは**データ未取得・未判定**）。
 - [Alphabet・Microsoftの一次決算：営業成長、FCF、Q3社債・株式調達の時点を分離](topics/2026-10-29-alphabet-microsoft-ai-cashflow-credit.md)。
+
+
+- [2026-10-29 11:43 JST：MicrosoftのFCF+$18.633bnとAlphabetの四半期FCF−$9.065bn、引け後株価の明暗、Samsung DS利益・HBM4実需、米イラン外交期待とBrent12月限の10/30満期を照合](daily/2026-10-29-review-1143-jst.md)（**AI需要とキャッシュ創出力の違いは個社部分支持／信用→SOX因果・同限月同期Brent–WTI裁定・日本船社実益・米軽油価格効果は未判定**。コーン**データ未取得・未判定**）。
+- [AI企業のキャッシュ創出力による選別とSamsung決算](topics/2026-10-29-ai-cashflow-selectivity-samsung.md)／[原油外交観測とICE Brent満期](topics/2026-10-29-crude-diplomacy-near-expiry.md)。
