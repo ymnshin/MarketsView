@@ -312,3 +312,16 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **中東純供給減／海運利益／ロシア軽油**：中東安全保障/輸送・高運賃の既存部分支持、**追加純供給減は未判定**。Bahriの**2026Q3個社実現増益は既存部分支持**だが日本3社の10月高運賃に伴う実利益は未判定。ロシア軽油の精製回復の既存部分支持と11月米港着荷予定を維持、**米港実荷揚げ・ULSD価格因果は未判定**。次は同一期の積出・実成約TCE、3社船種別利益、船名/入港/通関・PADD1輸入を照合。
 - **トウモロコシ12月限−翌3月限保管キャリー：データ未取得・未判定**。研究用コード・契約台帳・データ取得案はあるが、複数作物年度の同日個別限月清算値CSVがリポジトリにない。費用・在庫・公表ヴィンテージも揃わず、20営業日後効果や収益・有意性は計算しない。反証：年度外・保管キャリー・費用調整後の予測性がない。
 - **次回確認**：Alphabet/Microsoftの実際の信用スプレッド同条件系列、米株決算後の翌通常取引、Brent–WTI同限月同期気配、Saudi Aramco純積出、実成約/船主TCE、ロシア軽油米港受入、CBOT個別限月履歴とライセンス。公表日時・期間・異なる限月を混同せず、ライセンス生データ・秘密情報を転載しない。
+
+
+## 2026-10-29 11:43 JST 定点照合：AIのFCF選別、Samsung確報、原油外交・ICE12月限満期（元仮説・旧結果を維持）
+
+[11:43レビュー](../daily/2026-10-29-review-1143-jst.md)／[AIキャッシュ創出力とSamsung](../topics/2026-10-29-ai-cashflow-selectivity-samsung.md)／[原油外交・Brent限月](../topics/2026-10-29-crude-diplomacy-near-expiry.md)。照合2026-10-29 11:43 JST＝02:43 UTC、比較07:52 JST。
+
+- **AI実需要と投資キャッシュ**：[Microsoft公式FY2027Q1（10/28公表）](https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast)の営業CF$58.000bn−固定資産現金支出$39.367bn＝**FCF+$18.633bn**。前回照合の[Alphabet SEC Q3](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm)の**FCF−$9.065bn**と方向が対照的。[Reuters 10/29 02:31 UTC](https://www.reuters.com/business/cash-is-king-investors-draw-new-battle-lines-ai-spending-boom-2026-10-29/)で米10/28**引け後**のMicrosoft株**+3%超**／Alphabet**約−10%**。Alphabet Search成長の市場予想未達も交絡要因。**FCFの差と株価選別の併存を観測、因果は未判定**。反証：決算サプライズ・金利・時価総額を統制後に株価説明力が消える、または信用同条件スプレッドが悪化しない。
+- **Samsung 2026Q3一次確報（10/29）**：[Samsung公式](https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results)売上**KRW195.3兆**、営業利益**KRW107.4兆**、DS部門営業利益**KRW106.5兆**、HBM4需要拡大。連結の10/8既報ガイダンスと10/29事業部内訳を区別。[Reuters 10/29 02:28 UTC](https://www.reuters.com/world/china/global-markets-global-markets-2026-10-29/)のSamsung株**場中−4%超**は確定終値ではない。**AI半導体実需の個社部分支持を補強**、信用リスク/SOX因果は**未判定**。反証：実売上・出荷・価格/マージンの持続性がなく、株価の超過反応を統計的に説明できない。
+- **原油場中・外交報道**：[Reuters 10/29 00:28 UTC、価格観測01:32 UTC](https://www.reuters.com/business/energy/us-oil-prices-fall-investors-gauge-risks-mideast-supply-2026-10-29/)のBrent**$114.50**／WTI**$101.74**は**場中の異取引所参考値**。米イラン交渉打診との**二次報道**とサウジ側迎撃**主張**はあるが、原油実積出停止/回復を確認できない。ICE公式[Dec26 Brent最終取引日2026-10-30](https://www.ice.com/products/219/brent-crude-futures/expiry)を追加確認。**両脚同2026年12月限・同一UTC秒・執行可能bid/ask不在→Brent–WTI裁定未判定**。反証：同限月・品質/輸送費控除後に正の裁定余地がなく米輸出も増えない。
+- **海運・中東純供給減・ロシア軽油**：10/29新しい実成約TCE・日本3社実現部門利益・サウジ純積出量・11月予定の米国軽油着岸/通関/米ULSD効果は**未判定**。Bahri Q3利益は既存の個社部分支持。反証：港湾/輸送費・稼働日数/保険/通関の実績が仮説を支持しない。
+- **トウモロコシ12月限−翌3月限：データ未取得・未判定**。公開GitHubの計画・コード・契約台帳を照合。複数作物年度の個別限月清算値、キャリー/基差の事前公表ヴィンテージが無いため統計、20営業日後損益、OOSは推測しない。反証：必要データ取得後の年度外・費用調整済み予測性がない。
+
+**次**：米国10/29通常取引終値と信用CDS/OAS同商品・同年限、Brent Dec26満期前とJan27切替後の同期bid/ask、Yanbu/Ras Tanura輸出・タンカー実現利益、ロシア軽油米港実荷揚げ、CMEの利用許諾済み複数年度清算値。情報提供元の公表・対象期・観測時刻を混同しない。生価格・秘密鍵を転載しない。
