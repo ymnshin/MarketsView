@@ -441,3 +441,16 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **CBOTコーンDec–翌Mar保管キャリー：データ未取得・未判定**。GitHubの`research/corn-dec-mar/data/input/futures_daily.csv`は今回もContents APIで**404**。複数作物年度の個別限月実測清算値、保管費・金利・基差の公表時点資料がなく**取引成績、勝率、p値は未推定**。**反証**：適法データで費用控除後・作物年度外の予測性が再現しない。**次**：データ使用許諾と当時ヴィンテージを揃える。
 
 **保全**：本文追記のみ。既存の仮説と旧判定は削除・書換えせず、有料相場原系列・AIS生データ・記事全文・秘密鍵は保存しない。
+
+
+## 2026-10-31 07:52 JST 定点照合：Meta信用見通しと10/30米株・原油引け（原仮説・過去判定は保持）
+
+[今回レビュー](../daily/2026-10-31-review-0752-jst.md)／[Meta信用ノート](../topics/2026-10-31-meta-rating-outlook-ai-credit-close.md)／[原油・運賃・軽油ノート](../topics/2026-10-31-oil-russian-freight-and-diesel-update.md)。照合：2026-10-31 07:52 JST＝10/30 22:52 UTC。前回03:51 JSTの観測後に公表・確定した情報を区別する。
+
+- **AI信用（部分支持補強）**：[Reuters 10/30 21:14 UTC](https://www.reuters.com/business/sp-global-revises-outlook-meta-negative-cashflow-concerns-2026-10-30/)：S&PがMeta AA-格付け**見通しのみ**安定的→ネガティブに変更。格付け引下げではない。Meta Q3 FCF -$2.12bnは実績、2026/27のFOCF -$39bn/-$71bnはS&Pの**予測**であり定義も異なる。前回のIntel Markit 5年CDS 124.75bp（+17.5bp）に加え、AI投資負担が個別信用評価へ影響する仮説の**部分支持を補強**。ただし見通し報道21:14 UTCは10/30通常株引け20:00 UTCの**後**であり株安の発表因果には使わない。[Reuters米株引け版](https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/)はNasdaq **25,437.00/-2.86%**、S&P500 **7,580.07/-1.82%**、SOX **-7.2%**、Intel **-28.6%**。前回03:51の場中-3.37%/-8.7%は別観測。**同年限CDS/OASがSOX・為替に先行する因果は未判定**。Microsoft公式10/29 $25bn社債発行条件確定は信用全面閉鎖への反証方向、受渡は11/4予定。**反証**：信用異常プレミアムの同条件広域拡大・先行性がなく、FCF回復/格付け見通し改善。**次**：S&P原文、格付け/信用OAS/株価の時刻整合と翌営業日。
+- **Brent–WTI（裁定未判定）**：[Reuters 10/30引け](https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/)にICE Brent **Dec26 $117.64**（10/30最終取引日）、別契約**Jan27 $113.43**、WTI **$104.12**（同記事で契約月不明）。10月原油騰落率Brent+13.6%／WTI+15.2%は月末記事の数値で、前回17:07 UTC場中とは異なる。**同2027年1月限・同UTC秒執行可能bid/askとMidland/MEH品質・港費・保険・船賃が未確認のため裁定・縮小未判定**。**反証**：費用調整後に純裁定余地なく輸出も追随しない。**次**：ICE/CME同期気配とEIA輸出。
+- **中東供給・運賃（航行リスク部分支持維持、サウジ輸出一律減の強仮説には反証方向）**：同Reutersで**船舶追跡3社中2社が10月サウジ原油輸出は9月より増えたと推定**。UKMTO既往の爆発物・火災事故と広域の輸出純減は別。Reuters [10/30 16:03 UTC、関係者推計](https://www.reuters.com/business/energy/freight-rates-russian-oil-stay-record-highs-amid-tanker-shortage-black-sea-risks-2026-10-30/)でロシアUrals**原油**西部港→インド運送費約**$30/bbl以上**（9月約$20）、Aframax片道**$23m**（9月$13-16m）、Suezmax片道**$30m**（9月$19m）。運送負担増の部分支持だが**軽油航行・船主実約定TCEや日本3社のタンカー起因確定利益とは別**。**反証**：同定義サウジ輸出が実際には継続減、または同航路船主TCE/日本船社純利益が運賃増を反映しない。**次**：港別同期間実積出・保険・実成約、川崎11/4・NYK11/5・商船三井11/9の予定決算。
+- **ロシア軽油（政策意向は部分支持、米荷揚げとULSD価格は未判定）**：[Reuters 10/30 13:00 UTC](https://www.reuters.com/business/energy/russia-plans-export-215-million-tons-diesel-november-media-say-2026-10-30/)はノバク副首相のロシアメディア経由**11月輸出215万トン計画／輸出規制2027年1月末延長準備**を報道。10/29匿名関係者の**11月例外枠200万トン案／2026年末延長案**と対象・出所が異なる可能性、政府正式令未確認。7隻/28.8万tは航行推定であり、米港到着・通関ではない。**反証**：政令/割当/着岸不成立、原油/需要/在庫調整後の米ULSD下落なし。**次**：正式令、米税関・港湾、EIA PADD。
+- **CBOTトウモロコシDec–翌Mar保管キャリー：データ未取得・未判定**。研究README・台帳・スクリプト・テストを再点検。複数作物年度の個別限月清算値CSV **research/corn-dec-mar/data/input/futures_daily.csv は今回もGitHub API 404**。当時公表ヴィンテージ、保管費・基差/金利・使用許諾も不足。**収益率・勝率・p値は推計しない**。**反証**：費用控除・年度外20日予測性がない。**次**：適法な個別限月日次履歴と当時データを取得。
+
+公表時刻、対象取引日、実績/予測、契約月を混同しない。原仮説と過去の記録は追記のみ。ライセンス付き価格・AIS生データ、記事本文、秘密鍵は転載しない。
