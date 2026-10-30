@@ -170,3 +170,7 @@
 
 - [2026-10-30 19:47 JST：日経平均・TOPIXの10/30確定終値、ロシア軽油7隻の航行推計、ICE Brentロール日の同日場中価格、Reuters原油年間予測改訂を照合](daily/2026-10-30-review-1947-jst.md)（**AI信用OAS/CDS→株為替因果、ロシア軽油の米港実荷揚げ・ULSD価格効果、Brent–WTI同期裁定、中東追加純輸出減、日本3社タンカー実益は未判定**。トウモロコシ**データ未取得・未判定**。）
 - [日本株AIリスクと信用市場の因果ギャップ](topics/2026-10-30-japan-ai-close-credit-causality.md)／[ロシア軽油7隻推計と米港着荷の区別](topics/2026-10-30-russian-diesel-seven-vessels-us-arrivals.md)／[原油年平均予測とBrent最終取引日の混同防止](topics/2026-10-30-oil-forecast-survey-brent-roll.md)。**10/30日経の数値は引け値、Reuters原油08:45 UTCは場中、年間原油価格$92.88等は予測値**。
+
+
+- [2026-10-30 23:47 JST：Amazon/Intel一次決算と米株場中、Louise 1攻撃の詳細、Brent限月を照合](daily/2026-10-30-review-2347-jst.md)（**AIの需要成長と資金負担は個社で部分支持**。Brent–WTI同限月同期裁定・AI信用→株為替・中東追加純供給減・日系タンカー実益・ロシア軽油米価格因果は**未判定**。コーンは**データ未取得・未判定**）。
+- [Amazon/Intelの2026Q3と米10/30場中値：FCF対象期間・信用因果を分離](topics/2026-10-30-amazon-intel-cashflow-us-intraday.md)／[Louise 1吸着機雷とBrent期近ロールの区別](topics/2026-10-30-louise1-brent-roll-followup.md)。**10/30米株の値は場中、Amazonの−$42.4bn FCFはTTM、10/30 ICE Brent Dec26は最終取引日**であり、終値や同限月同期スプレッドとは混同しない。
