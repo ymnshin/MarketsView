@@ -174,3 +174,6 @@
 
 - [2026-10-30 23:47 JST：Amazon/Intel一次決算と米株場中、Louise 1攻撃の詳細、Brent限月を照合](daily/2026-10-30-review-2347-jst.md)（**AIの需要成長と資金負担は個社で部分支持**。Brent–WTI同限月同期裁定・AI信用→株為替・中東追加純供給減・日系タンカー実益・ロシア軽油米価格因果は**未判定**。コーンは**データ未取得・未判定**）。
 - [Amazon/Intelの2026Q3と米10/30場中値：FCF対象期間・信用因果を分離](topics/2026-10-30-amazon-intel-cashflow-us-intraday.md)／[Louise 1吸着機雷とBrent期近ロールの区別](topics/2026-10-30-louise1-brent-roll-followup.md)。**10/30米株の値は場中、Amazonの−$42.4bn FCFはTTM、10/30 ICE Brent Dec26は最終取引日**であり、終値や同限月同期スプレッドとは混同しない。
+
+
+- [2026-10-31 03:51 JST：Intel 5年CDS 124.75bp（+17.5bp）とSOX・NASDAQの米場中下落、Microsoft社債$25bnの発行体一次価格決定、原油17:07 UTC参考値／Brent Dec→Janロール、リビア局所停止を照合](daily/2026-10-31-review-0351-jst.md)（**Intel固有の信用ストレスは部分支持**、**AI信用→SOX/為替の先行因果、Brent–WTI同期裁定、中東追加純輸出減・日本3社タンカー実益、ロシア軽油の米国荷揚げ・ULSD因果は未判定**。CBOTコーンは**データ未取得・未判定**）。[Microsoft社債発行体確定条件の追補](topics/2026-10-30-ecb-microsoft-funding.md)／[Intel CDS追補](topics/2026-10-30-amazon-intel-cashflow-us-intraday.md)／[Brent参考値・リビア供給追補](topics/2026-10-30-louise1-brent-roll-followup.md)。**10/30米株は今回照合時点で場中**、Microsoft社債11/4は**予定受渡**。
