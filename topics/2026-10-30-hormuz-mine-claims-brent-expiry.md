@@ -16,3 +16,11 @@
 **反証／次の確認**：UKMTO/海事当局の照会で報道の船と損害が裏付かない、実港湾稼働が維持される、戦争保険と運賃が反落すれば「被害・物流途絶拡大」の強い仮説は弱まる。独立船舶報告・港別積出・実成約・CME/ICE同時気配を待つ。
 
 ライセンス付きAIS/先物ティック・記事本文の転載しない。
+
+## 2026-10-30 15:45 JST 追補：UKMTOの事故訂正・被害確認と報道の異同
+
+[UKMTO公式サイトの#185・#186・#187](https://www.ukmto.org/) と[Seatrade Maritime（2026/10/30）](https://www.seatrade-maritime.com/security/tanker-catches-fire-in-hormuz-after-explosives-attached-to-hull)を**2026-10-30 15:45 JST（06:45 UTC）**に照合。**#187事故発生は2026/10/29 22:12 UTC（JST10/30 07:12）**：小舟からタンカー船体の喫水線上へ爆発物2個を装着したとのUKMTO更新報告、機関室火災・一時航行不能。その後消火、乗員安全、次港に向け航行再開。**#186は別案件**（10/29 16:00 UTC、出域タンカーに不明の飛翔体）、**#185の初期「タンカーが火災」観測は当局更新でダウ船の火災・沈没に訂正**。船名Louise 1の同定は民間Vanguard Techに帰属しUKMTO公式の船名確定としない。**IRGCの「機雷により3タンカー炎上」主張を、UKMTOで独立確認された3隻の機雷被害に格上げしない**。
+
+**判定**：実際の航行危険の存在は**部分支持を補強**。事故の責任主体・3隻機雷・原油輸出純減・海運個社利益は**未判定**。**反証条件**：後続のUKMTO訂正、港湾同条件積出量・保険料・実成約運賃が安定し「供給途絶拡大」の機序が確認できない。**次**：UKMTO #187更新、#185と#186の同一船重複防止、船名/IMOと積載、港湾稼働/海上保険/TCE。
+
+加えて[Reuters 10/30 03:23 UTCの参考価格](https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/)はICE Brent**Dec26 $116.08／Jan27 $112.19**を明記。WTI**$103.37**の**限月/bid-askが明記されず**、ICEのDec26最終取引日は**10/30**。[ICE満期表](https://www.ice.com/products/219/brent-crude-futures/expiry)。**異限月や別時点清算値を混ぜたBrent–WTI裁定計算は行わない**。
