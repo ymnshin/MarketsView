@@ -167,3 +167,6 @@
 
 - [2026-10-30 15:45 JST：日銀1.25%据置・2027年ETF売却加速・CPI見通し改訂、UKMTOタンカー火災の独立確認/ダウ船訂正、Brent限月の混同を防止](daily/2026-10-30-review-1545-jst.md)（**原油輸出裁定・AI信用→株為替・日本3社タンカー実現利益・ロシア軽油米国価格は未判定**。コーン**データ未取得・未判定**）。
 - [10月日銀会合・ETF売却ペースとAI信用の競合イベント](topics/2026-10-30-boj-policy-etf-ai-inflation.md)／[UKMTO #185–187事故事実と訂正](topics/2026-10-30-hormuz-mine-claims-brent-expiry.md)。
+
+- [2026-10-30 19:47 JST：日経平均・TOPIXの10/30確定終値、ロシア軽油7隻の航行推計、ICE Brentロール日の同日場中価格、Reuters原油年間予測改訂を照合](daily/2026-10-30-review-1947-jst.md)（**AI信用OAS/CDS→株為替因果、ロシア軽油の米港実荷揚げ・ULSD価格効果、Brent–WTI同期裁定、中東追加純輸出減、日本3社タンカー実益は未判定**。トウモロコシ**データ未取得・未判定**。）
+- [日本株AIリスクと信用市場の因果ギャップ](topics/2026-10-30-japan-ai-close-credit-causality.md)／[ロシア軽油7隻推計と米港着荷の区別](topics/2026-10-30-russian-diesel-seven-vessels-us-arrivals.md)／[原油年平均予測とBrent最終取引日の混同防止](topics/2026-10-30-oil-forecast-survey-brent-roll.md)。**10/30日経の数値は引け値、Reuters原油08:45 UTCは場中、年間原油価格$92.88等は予測値**。
