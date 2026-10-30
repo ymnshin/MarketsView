@@ -23,3 +23,10 @@
 - **次の確認**：10/30確定米国終値、Amazon/Intel/Meta/Microsoftの四半期・TTM定義を統一したFCF、MSFT債券最終条件（発行日、CUSIP、満期、米国債ベンチマーク）、CoreWeave等との同条件OAS/CDSを照合。
 
 > 有料時系列・社債気配データの転載、APIキー・秘密鍵の保存は行っていない。報道本文の長文転載もなし。
+
+
+## 2026-10-31 03:51 JST 追補：Intel 5年CDSスプレッド、米株の場中売り拡大
+
+[Reuters Intel記事（2026/10/30、今回照合10/30 18:51 UTC）](https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/) によると、Markitの**Intel 5年CDSは124.75bp、前日比+17.5bp、過去最高水準**。Intel株は**約30%下落の場中**で、Intel CFOは2026年のFCFプラスを見込まないとの会社見通し。**5年CDSの発行体固有の信用不安の拡大は部分支持**。ただしMarkit元気配の時刻、同一時刻での株・SOX・他社CDSは未照合で、**信用→株式・為替の先行因果は未判定**。Intel自身のPC需要低迷・メモリー不足・製造設備投資の個社要因は交絡。
+
+[Reuters米株記事、今回照合時のウェブ本文](https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/) は10/30米**通常取引の場中**としてNasdaq総合**25,303.37（−3.37%）**、S&P500**7,559.85（−2.08%）**、SOX**約−8.7%**を表示。米市場は照合時（14:51 EDT頃）**まだ閉場しておらず**終値ではない。記事のIntel/Amazon個別下落率の並びに不整合が見られ、同一文章の「それぞれ」対応は採用せず、Intel約30%は別Reuters記事と照合した。**対立仮説**：決算ガイダンスとPC個別要因、長期金利期待、バリュエーションとポジション解消が株安を説明する可能性。**反証条件**：同年限・同時点のAI関連発行体CDS/OASが横ばい/縮小し、株価下落の先行説明力が消える。**次**：米10/30確定終値・Intel CDS固定時点の一次系列、他社同格付け信用指標との横断比較。
