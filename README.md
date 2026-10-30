@@ -177,3 +177,7 @@
 
 
 - [2026-10-31 03:51 JST：Intel 5年CDS 124.75bp（+17.5bp）とSOX・NASDAQの米場中下落、Microsoft社債$25bnの発行体一次価格決定、原油17:07 UTC参考値／Brent Dec→Janロール、リビア局所停止を照合](daily/2026-10-31-review-0351-jst.md)（**Intel固有の信用ストレスは部分支持**、**AI信用→SOX/為替の先行因果、Brent–WTI同期裁定、中東追加純輸出減・日本3社タンカー実益、ロシア軽油の米国荷揚げ・ULSD因果は未判定**。CBOTコーンは**データ未取得・未判定**）。[Microsoft社債発行体確定条件の追補](topics/2026-10-30-ecb-microsoft-funding.md)／[Intel CDS追補](topics/2026-10-30-amazon-intel-cashflow-us-intraday.md)／[Brent参考値・リビア供給追補](topics/2026-10-30-louise1-brent-roll-followup.md)。**10/30米株は今回照合時点で場中**、Microsoft社債11/4は**予定受渡**。
+
+
+- [2026-10-31 07:52 JST：Meta格付け見通しネガティブ、米10/30確定引け、Brent期近ロール、ロシア原油運賃と軽油輸出計画の相違を照合](daily/2026-10-31-review-0752-jst.md)（AI信用の個社ストレスは部分支持、全体の信用→株為替の先行因果・同月同時刻Brent–WTI輸出裁定・中東純輸出減・日系タンカー実現増益・米軽油荷揚げ/価格因果は未判定。トウモロコシは**データ未取得・未判定**。）
+- [Meta格付け見通しと米株確定引け：発表時刻と因果の区別](topics/2026-10-31-meta-rating-outlook-ai-credit-close.md)／[原油確定値、ロシア原油運賃・軽油輸出計画の定義差](topics/2026-10-31-oil-russian-freight-and-diesel-update.md)。
