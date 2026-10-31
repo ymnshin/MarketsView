@@ -185,3 +185,5 @@
 
 - [2026-10-31 11:51 JST：Guardianのロシア軽油追跡船数**7隻・28.8万t→6隻・26.8万t**への10/30訂正、サウジ東部/南部の迎撃主張、UAE Gem No.2漏油停止を照合](daily/2026-10-31-review-1151-jst.md)（**訂正は実荷揚げ・輸出減の新観測ではない**。中東実供給減・日本3社実現タンカー利益、Jan27同限月同時刻Brent–WTI裁定、AI信用→SOX/為替因果は**未判定**。トウモロコシ保管キャリーは**データ未取得・未判定**。）
 - [出典訂正履歴とサウジ・UAE運航リスクの検証ノート](topics/2026-10-31-russian-diesel-correction-saudi-drone-uae-spill.md)。以前の旧7隻観測は消去せず、改訂履歴を付記。
+
+- [2026-10-31 15:52 JST：OpenAI調達条件の報道とExxon/Chevron Q3製品部門の確定実績を照合](daily/2026-10-31-review-1552-jst.md)（**新規発見した既報の照合**であり、土曜の新たな確定取引ではない）。[AI調達](topics/2026-10-31-openai-funding-target-and-ai-credit-selectivity.md)／[製品・精製実績](topics/2026-10-31-exxon-chevron-downstream-q3-vs-russian-diesel.md)。同限月同時刻Brent–WTI、ロシア軽油の米港実荷揚げ、日系海運実現利益、信用→株価の因果は**未判定**、トウモロコシは**データ未取得・未判定**。
