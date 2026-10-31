@@ -468,3 +468,13 @@ Reuters **10/26 02:49 UTC**でIEA事務局長が2027年も戦前水準への正�
 - **トウモロコシ12月限−翌3月限保管キャリー：データ未取得・未判定**。研究計画とスクリプトはあるが複数作物年度の個別限月清算値CSV `research/corn-dec-mar/data/input/futures_daily.csv`はリポジトリに存在せず、費用・金利・基差・USDA当時ヴィンテージも未取得。利益・有意性・勝率は推測しない。反証：年度外予測が費用調整後に再現しない。次：合法的な実測清算履歴と当時情報。
 
 原仮説・過去判定を上書きせず訂正と新観測を明示して追記。有料価格・連続AIS生データ・記事全文・資格情報は非掲載。
+
+## 2026-10-31 15:52 JST 定点照合：AI未上場株の資金調達目標と米統合石油大手の製品部門実績（原仮説を保持）
+
+[今回の定点レビュー](../daily/2026-10-31-review-1552-jst.md)、[OpenAI調達の別指標検証](../topics/2026-10-31-openai-funding-target-and-ai-credit-selectivity.md)、[Exxon/Chevron Q3実績](../topics/2026-10-31-exxon-chevron-downstream-q3-vs-russian-diesel.md)。**照合**：2026/10/31 15:52 JST（06:52 UTC）。**報道・一次資料は前回11:51 JSTまでに既に公表済み**で、新たな価格更新ではない。
+
+- **AI調達条件の選別：個別事例は部分支持、信用→SOX/為替因果は未判定**。Reuters **10/31 00:17 UTC**がFT関係者報道を引用し、OpenAIの最新ラウンド資金調達**目標**約**$30bn→$20bn**、希望企業評価額**$1.4tn→$1.25tn**と報道。**目標・コミット・入金・企業公式確定値は違う**。Reutersオンライン版に以前の評価額を「$1.4 billion」とする不整合があるため、FTの「$1.4 trillion」を参照。WSJ 10/31の資金提供者の選別厳格化は定性報道であり、同期したCDS/OAS実測ではない。**反証**：OpenAI公式で条件不一致、同年限社債/CDSの広域ストレス不成立、決算/金利統制後に先行性消失。**次**：公式クロージング文書、同年限OAS/CDS、米株次営業日。出典：[Reuters](https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/)／[FT](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f)／[WSJ](https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d)。
+- **製品精製利益と中東リスク：実績に部分支持**。[Chevron公式10/30](https://chevroncorp.gcs-web.com/node/38811)の2026Q3ダウンストリーム**GAAP $4.931bn（前年$1.137bn）**、海外精製品販売数量前年比**−9%**（会社説明では中東供給障害）、[Exxon公式10/30](https://investor.exxonmobil.com/company-information/press-releases/detail/1213/exxonmobil-announces-third-quarter-2026-results)の2026Q3 Energy Products **GAAP $7.169bn（Q2 $5.465bn）**、製品マージン増を照合。**Q3（7〜9月）業績は10月の露軽油輸入効果を含まず、日本3船社タンカー利益でもない**。**反証**：マージン・稼働・製品ミックスの統制後に中東帰属の追加寄与なし、米港軽油荷揚げ/ULSD価格効果不成立。**次**：EIA 10月以降の留出油・精製統計、通関、11月船社決算。
+- **残余仮説は判定変更なし**：Brent/WTI Jan27同UTC時刻両方向bid/ask未取得で同期輸出裁定**未判定**。露軽油のGuardian訂正後**6隻・26.8万t**は航行推計で米港実荷揚げ・価格因果**未判定**。中東の追加純供給減、タンカー実成約TCE・日本船社の確定利益**未判定**。**トウモロコシDec26–Mar27保管キャリーはデータ未取得・未判定**で、複数年度の個別限月清算値も当時保管費/基差/金利も未揃い。収益・勝率・p値は算出しない。
+
+記事全文、有料市況/AIS原データ、資格情報は保存せず、各時点の検証条件と旧記録を維持。
