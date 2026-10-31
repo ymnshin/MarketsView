@@ -187,3 +187,6 @@
 - [出典訂正履歴とサウジ・UAE運航リスクの検証ノート](topics/2026-10-31-russian-diesel-correction-saudi-drone-uae-spill.md)。以前の旧7隻観測は消去せず、改訂履歴を付記。
 
 - [2026-10-31 15:52 JST：OpenAI調達条件の報道とExxon/Chevron Q3製品部門の確定実績を照合](daily/2026-10-31-review-1552-jst.md)（**新規発見した既報の照合**であり、土曜の新たな確定取引ではない）。[AI調達](topics/2026-10-31-openai-funding-target-and-ai-credit-selectivity.md)／[製品・精製実績](topics/2026-10-31-exxon-chevron-downstream-q3-vs-russian-diesel.md)。同限月同時刻Brent–WTI、ロシア軽油の米港実荷揚げ、日系海運実現利益、信用→株価の因果は**未判定**、トウモロコシは**データ未取得・未判定**。
+
+
+- [2026-10-31 19:52 JST：OpenAI資金調達の投資家コミットメント約110億ドルというWSJ報道とNASDAQ100の月間場中推計を追加照合](daily/2026-10-31-review-1952-jst.md)。[AI信用の追加検証](topics/2026-10-31-openai-funding-target-and-ai-credit-selectivity.md)。**目標額・コミットメント・入金を区別し、NASDAQ100とNASDAQ総合、場中推計と確定終値を混同しない**。Brent–WTI同期裁定・ロシア軽油米港荷揚げと価格因果・中東純輸出減・日本船社タンカー実益・信用→株価先行因果は**未判定**。トウモロコシ保管キャリーは**データ未取得・未判定**。
