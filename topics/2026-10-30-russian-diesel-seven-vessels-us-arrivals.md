@@ -1,3 +1,5 @@
+> **出典元の訂正を追記（2026-10-31 11:51 JST 照合）**：この記事の元となったGuardian記事は**2026-10-30**に、旧「7隻・288,000トン」を**「6隻・268,000トン」**へ訂正した（Azura除外・Azura/Talismanの地図ラベル修正）。以下は**10/30 19:47 JST時点に確認した訂正前の掲載内容を歴史的記録として残す**もので、最新の船数ではない。訂正は実荷揚げを意味しない。出典：[Guardianの明示訂正](https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump)。[今回の追補](2026-10-31-russian-diesel-correction-saudi-drone-uae-spill.md)。米港荷揚げとULSD価格因果は引き続き**未判定**。
+
 # 2026-10-30｜ロシア軽油の米国方面7隻：航行推計と実荷揚げを分離
 
 **照合**：2026-10-30 19:47 JST。**記事初出**：[The Guardian 2026-10-29 20:01 CET（10/30 04:01 JST）](https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump)。記事発表と船舶AIS等の測位時刻は一致するとは限らない。
